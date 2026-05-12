@@ -1,0 +1,703 @@
+{
+  "_meta": {
+    "lastUpdated": "2026-05-12T12:27:02.981Z",
+    "updatedBy": "CT Rewards Studio",
+    "version": 1
+  },
+  "OFFER_CONFIGS": [
+    {
+      "sites": [
+        "US"
+      ],
+      "campaign": "Loyalty 1st Purchase ",
+      "offerTitle": "Welcome offer",
+      "offerDescription": "As a thank you for your first purchase, enjoy $60 off your next full-price order.",
+      "offerText": "$60 OFF",
+      "subText": "No minimum spend",
+      "bannerEnabled": true,
+      "bannerText": "Get $60 OFF your next order",
+      "terms": "This offer is intended for the and can only be used once in a single order. US Customers only. Not valid on Clearance and/or Last Chance items.",
+      "contact": "George",
+      "suppDates": "",
+      "startAt": "2026-01-26T00:00:00Z",
+      "endAt": "DAYS:14",
+      "payloadKey": "uoc-web-loyalty-level1",
+      "attrName": "UOC_Web_Loyalty_Level1",
+      "assignedPayloadKey": "loyalty-level1-assigned-date",
+      "id": "CT-DZWPWU"
+    },
+    {
+      "id": "CT-22M9AX",
+      "sites": [
+        "DE"
+      ],
+      "campaign": "GEHSS26WLM",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "",
+      "offerText": "25 % Rabatt",
+      "subText": "Plus Gratis-Lieferung ab einem Einkauf von 200 €",
+      "bannerEnabled": true,
+      "bannerText": "25 % Rabatt",
+      "terms": "Angebotsbedingungen: Dieses Angebot ist nicht in Verbindung mit anderen Gutscheinen, Sonderangeboten oder Einführungspreisen gültig und endet am 7. Juni 2026 um 23:59 Uhr. Der Code kann nur für eine Transaktion verwendet werden. Sale, Express-Versandkosten, Geschenkgutscheine, Geschenkverpackungen und Änderungsarbeiten sind von diesem Angebot ausgeschlossen. Gutscheine können nicht gegen Bargeld umgetauscht werden. Wir behalten uns das Recht vor, dieses Angebot jederzeit und ohne vorherige Ankündigung zurückzuziehen, zu ändern oder zu erweitern. Die kostenlose Lieferung gilt ausschließlich für den Standardversand mit einem Mindestumsatz von 200 €. Die Allgemeinen Geschäftsbedingungen finden Sie auf charlestyrwhitt.com/de/agbs.html.",
+      "contact": "Charlotte C",
+      "suppDates": "22/05/26 - 25/05/26",
+      "startAt": "2026-05-12T00:00:00Z",
+      "endAt": "2026-06-07T23:59:59Z",
+      "customQualifiers": [
+        {
+          "attr": "gi_EmailSegmentation",
+          "operator": "contains",
+          "value": "SS26_DE_HFWLM"
+        }
+      ],
+      "customUocAttr": "gi_UOC",
+      "customUocMode": "attr",
+      "srcType": "custom"
+    }
+  ],
+  "DIRECT_MAIL_REWARDS": {
+    "USH471GPA": {
+      "sites": [
+        "US"
+      ],
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy $75 off your order.",
+      "offerText": "$75 OFF",
+      "subText": "Full-price items only - No minimum spend",
+      "bannerEnabled": true,
+      "bannerText": "$75 off – Exclusive Reward",
+      "terms": "This offer ends at 11:59PM (PST) on February 8th, 2026.",
+      "startAt": "2026-01-26T00:00:00Z",
+      "endAt": "2026-02-09T00:00:00Z",
+      "id": "CT-V6H3JH"
+    },
+    "USH471GPB": {
+      "sites": [
+        "US"
+      ],
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy 30% off your order.",
+      "offerText": "30% OFF",
+      "subText": "Full-price items only - No minimum spend",
+      "bannerEnabled": true,
+      "bannerText": "30% off – Exclusive Reward",
+      "terms": "This offer ends at 11:59PM (PST) on February 8th, 2026.",
+      "startAt": "2026-01-26T00:00:00Z",
+      "endAt": "2026-02-09T00:00:00Z",
+      "id": "CT-NTJF8R"
+    },
+    "USH471GPC": {
+      "sites": [
+        "US"
+      ],
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy $75 off when you spend $150.",
+      "offerText": "$75 OFF",
+      "subText": "$150 minimum spend",
+      "bannerEnabled": true,
+      "bannerText": "$75 off $150 – Exclusive Reward",
+      "terms": "This offer ends at 11:59PM (PST) on February 8th, 2026.",
+      "startAt": "2026-01-26T00:00:00Z",
+      "endAt": "2026-02-09T00:00:00Z",
+      "id": "CT-8BPC3G"
+    },
+    "WLMA": {
+      "id": "CT-BR6J2B",
+      "sites": [
+        "US"
+      ],
+      "campaign": "USHSS26WLMA",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "",
+      "offerText": "$75 Off",
+      "subText": "",
+      "bannerEnabled": true,
+      "bannerText": "$75 Off",
+      "terms": "This offer ends at 11:59PM (PST) on May 17th, 2026. Quote offer code in store, over the phone or apply offer code in bag at charlestyrwhitt.com. Custom, clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates. Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Cale",
+      "suppDates": "",
+      "startAt": "2026-04-20T00:00:00Z",
+      "endAt": "2026-05-18T23:59:59Z",
+      "dmVersion": "dm"
+    },
+    "WLMB": {
+      "id": "CT-9VAZDV",
+      "sites": [
+        "US"
+      ],
+      "campaign": "USHSS26WLMB",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy $75 off when you spend $150",
+      "offerText": "$75 Off",
+      "subText": "When you spend $150",
+      "bannerEnabled": true,
+      "bannerText": "$75 Off",
+      "terms": "This offer ends at 11:59PM (PST) on May 17th, 2026. Minimum spend of $150 required to unlock $75 Off. Quote offer code in store, over the phone or apply offer code in bag at charlestyrwhitt.com. Custom, clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates. Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Cale",
+      "suppDates": "",
+      "startAt": "2026-04-20T00:00:00Z",
+      "endAt": "2026-05-18T23:59:59Z",
+      "dmVersion": "dm"
+    }
+  },
+  "DIRECT_MAIL_REWARDS_2": {
+    "WLMR": {
+      "id": "CT-ABVY4J",
+      "sites": [
+        "US"
+      ],
+      "campaign": "USHSS26WLMR",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy $75 off",
+      "offerText": "$75 Off",
+      "subText": "No minimum spend",
+      "bannerEnabled": true,
+      "bannerText": "$75 Off",
+      "terms": "This offer ends at 11:59PM (PST) on May 17th, 2026. Quote offer code in store, over the phone or apply offer code in bag at charlestyrwhitt.com. Custom, clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates. Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Cale",
+      "suppDates": "",
+      "startAt": "2026-04-20T00:00:00Z",
+      "endAt": "2026-05-18T23:59:59Z",
+      "dmVersion": "dm2"
+    }
+  },
+  "EMAIL_SEGMENTATION_OFFERS": {
+    "en": {
+      "SS26_BCMA": {
+        "sites": [
+          "UK"
+        ],
+        "campaign": "BCM",
+        "offerTitle": "Exclusive Reward",
+        "offerDescription": "£30 off your order.",
+        "offerText": "£30 OFF",
+        "subText": "No minimum spend",
+        "bannerEnabled": true,
+        "bannerText": "£30 off – Exclusive Reward",
+        "terms": "Terms and Conditions: Offer ends at 11:59pm on 1st March 2026.",
+        "contact": "",
+        "suppDates": "",
+        "startAt": "2026-02-09T00:00:00Z",
+        "endAt": "2026-03-09T23:59:59Z",
+        "id": "CT-8JH7N3"
+      },
+      "SS26_BCMB": {
+        "sites": [
+          "UK"
+        ],
+        "offerTitle": "Exclusive Reward",
+        "offerDescription": "£30 off when you spend £120.",
+        "offerText": "£30 OFF",
+        "subText": "£120 minimum spend",
+        "bannerEnabled": true,
+        "bannerText": "£30 off £120 – Exclusive Reward",
+        "terms": "Terms and Conditions: Offer ends at 11:59pm on 1st March 2026.",
+        "startAt": "2026-02-09T00:00:00Z",
+        "endAt": "2026-03-09T23:59:59Z",
+        "id": "CT-EKENPS"
+      },
+      "SS26_BCMC": {
+        "sites": [
+          "UK"
+        ],
+        "offerTitle": "Exclusive Reward",
+        "offerDescription": "20% off your order.",
+        "offerText": "20% OFF",
+        "subText": "No minimum spend",
+        "bannerEnabled": true,
+        "bannerText": "20% off – Exclusive Reward",
+        "terms": "Terms and Conditions: Offer ends at 11:59pm on 1st March 2026.",
+        "startAt": "2026-02-09T00:00:00Z",
+        "endAt": "2026-03-09T23:59:59Z",
+        "id": "CT-8KYXSD"
+      },
+      "SS26_2_React_Test": {
+        "sites": [
+          "UK"
+        ],
+        "offerTitle": "Exclusive Reward",
+        "offerDescription": "£25 off your order.",
+        "offerText": "£25 OFF",
+        "subText": "No minimum spend",
+        "bannerEnabled": true,
+        "bannerText": "£25 off – Exclusive Reward",
+        "terms": "Offer ends at 11:59pm on 1st March 2026.",
+        "startAt": "2026-02-11T00:00:00Z",
+        "endAt": "2026-03-01T23:59:59Z",
+        "id": "CT-HLM84K"
+      },
+      "SS26_HVM_Reacts": {
+        "sites": [
+          "UK"
+        ],
+        "offerTitle": "Exclusive Reward",
+        "offerDescription": "£25 off your order.",
+        "offerText": "£25 OFF",
+        "subText": "No minimum spend",
+        "bannerEnabled": true,
+        "bannerText": "£25 off – Exclusive Reward",
+        "terms": "Offer ends at 11:59pm on 1st March 2026.",
+        "startAt": "2026-02-11T00:00:00Z",
+        "endAt": "2026-03-01T23:59:59Z",
+        "id": "CT-DRPDJS"
+      },
+      "SS26_HF3": {
+        "sites": [
+          "UK",
+          "DE"
+        ],
+        "campaign": "Book 4 Linen",
+        "offerTitle": "Exclusive Reward",
+        "offerDescription": "Enjoy £20 Off when you spend £100",
+        "offerText": "£20 Off",
+        "subText": "When you spend £100",
+        "bannerEnabled": true,
+        "bannerText": "£20 Off",
+        "terms": "Terms and Conditions: Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates. Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+        "contact": "Charlotte C",
+        "suppDates": "18/04/2026 - 19/04/2026",
+        "startAt": "2026-04-12T00:00:00Z",
+        "endAt": "2026-04-26T23:59:59Z",
+        "codeType": "static_per_market",
+        "staticCodes": {
+          "UK": "HEAT",
+          "DE": "FRISCH"
+        },
+        "translations": {
+          "de": {
+            "offerText": "30 € Rabatt",
+            "subText": "Wenn Sie 150 € ausgeben",
+            "offerTitle": "Exklusive Belohnung",
+            "offerDescription": "Genießen Sie 20 £ Rabatt, wenn Sie 100 £ ausgeben",
+            "bannerText": "30 € Rabatt",
+            "terms": "Geschäftsbedingungen: Geben Sie den Angebotscode telefonisch an oder wenden Sie den Code im Warenkorb auf charlestyrwhitt.com an. Ausverkaufs-/Sale-Artikel, Geschenkkarten, Geschenkverpackungen, Versandkosten und Änderungen sind von diesem Angebot ausgeschlossen. Nicht mit anderen Rabatten, Gutscheinen oder Cashback-/Rückerstattungsaktionen kombinierbar. Nur einmal einlösbar. Wir behalten uns das Recht vor, dieses Angebot jederzeit zu ändern. Die allgemeinen Geschäftsbedingungen finden Sie auf unserer Website."
+          },
+          "fr": {}
+        },
+        "id": "CT-3ZMW2M"
+      },
+      "SS26_UK_HFWLM": {
+        "id": "CT-EAMA27",
+        "sites": [
+          "UK"
+        ],
+        "campaign": "UKHSS26WLM",
+        "offerTitle": "Exclusive Reward",
+        "offerDescription": "",
+        "offerText": "20% OFF",
+        "subText": "Plus, spend £150 and get free delivery",
+        "bannerEnabled": true,
+        "bannerText": "20% OFF",
+        "terms": "Terms & Conditions: Offer ends at 11:59pm on 7th June 2026. Promotion cannot be used in conjunction with other vouchers, special promotions or introductory pricing offers. Code redeemable on one transaction only. Offer excludes clearance, sale, express shipping costs, gift vouchers, gift boxes and alterations. Free delivery applies to standard delivery with a minimum spend of £150. Offer cannot be exchanged for cash. We reserve the right to withdraw, amend or extend this offer at any time without prior notice. For standard terms and conditions, see our website.",
+        "contact": "Charlotte C",
+        "suppDates": "22/05/26 - 25/05/26",
+        "startAt": "2026-05-12T00:00:00Z",
+        "endAt": "2026-06-07T23:59:59Z"
+      }
+    },
+    "de": {
+      "SS26_BCMA": {
+        "sites": [
+          "DE"
+        ],
+        "offerTitle": "Exklusiver Vorteil",
+        "offerDescription": "30€ Rabatt.",
+        "offerText": "30€ OFF",
+        "subText": "Kein Mindestbestellwert",
+        "bannerEnabled": true,
+        "bannerText": "30€ Rabatt – Exklusiver Vorteil",
+        "terms": "Endet 1. März 2026.",
+        "startAt": "2026-02-09T00:00:00Z",
+        "endAt": "2026-03-09T23:59:59Z",
+        "id": "CT-TBQ7FN"
+      }
+    }
+  },
+  "GI_UOC_PREFIX_OFFERS": [
+    {
+      "id": "CT-C8SXZG",
+      "sites": [
+        "AU"
+      ],
+      "campaign": "AUHSS26WLMA",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy $50 Off",
+      "offerText": "$50 Off",
+      "subText": "",
+      "bannerEnabled": true,
+      "bannerText": "$50 Off",
+      "terms": "This offer ends at 23:59 (AEST) on May 10th, 2026. Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates. Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Cale",
+      "suppDates": "",
+      "startAt": "2026-04-16T00:00:00Z",
+      "endAt": "2026-05-10T23:59:59Z",
+      "prefixes": [
+        "XQYA"
+      ]
+    },
+    {
+      "id": "CT-QSW6TG",
+      "sites": [
+        "AU"
+      ],
+      "campaign": "AUHSS26WLMB1",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy 25% Off",
+      "offerText": "25% Off",
+      "subText": "",
+      "bannerEnabled": true,
+      "bannerText": "25% Off",
+      "terms": "This offer ends at 23:59 (AEST) on May 10th, 2026. Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates. Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Cale",
+      "suppDates": "",
+      "startAt": "2026-04-16T00:00:00Z",
+      "endAt": "2026-05-10T23:59:59Z",
+      "prefixes": [
+        "XQYC"
+      ]
+    },
+    {
+      "id": "CT-Q6BFJ8",
+      "sites": [
+        "AU"
+      ],
+      "campaign": "AUHSS26WLMB2",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "",
+      "offerText": "$50 Off ",
+      "subText": "When you spend $200",
+      "bannerEnabled": true,
+      "bannerText": "$50 Off",
+      "terms": "This offer ends at 23:59 (AEST) on May 10th, 2026. $200 minimum spend required. Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates. Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Cale",
+      "suppDates": "",
+      "startAt": "2026-04-16T00:00:00Z",
+      "endAt": "2026-05-10T23:59:59Z",
+      "prefixes": [
+        "XQX3"
+      ]
+    },
+    {
+      "id": "CT-X39RP6",
+      "sites": [
+        "AU"
+      ],
+      "campaign": "AUHSS26WLMN",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "",
+      "offerText": "$50 Off",
+      "subText": "",
+      "bannerEnabled": true,
+      "bannerText": "$50 Off",
+      "terms": "This offer ends at 23:59 (AEST) on May 10th, 2026. Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates. Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Cale",
+      "suppDates": "",
+      "startAt": "2026-04-16T00:00:00Z",
+      "endAt": "2026-05-10T23:59:59Z",
+      "prefixes": [
+        "XQX2"
+      ]
+    },
+    {
+      "id": "CT-YHXJY6",
+      "sites": [
+        "UK"
+      ],
+      "campaign": "WLM Email Only Customers RKP2",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "",
+      "offerText": "20% OFF! ",
+      "subText": "Plus, spend £150 & get free delivery",
+      "bannerEnabled": true,
+      "bannerText": "20% OFF",
+      "terms": "Terms & Conditions: Offer ends at 11:59pm on 7th June 2026. Promotion cannot be used in conjunction with other vouchers, special promotions or introductory pricing offers. Code redeemable on one transaction only. Offer excludes clearance, sale, express shipping costs, gift vouchers, gift boxes and alterations. Free delivery applies to standard delivery with a minimum spend of £150. Offer cannot be exchanged for cash. We reserve the right to withdraw, amend or extend this offer at any time without prior notice. For standard terms and conditions, see our website.",
+      "contact": "Charlotte C",
+      "suppDates": "22/05/26 - 25/05/26",
+      "startAt": "2026-05-12T00:00:00Z",
+      "endAt": "2026-06-07T23:59:59Z",
+      "prefixes": [
+        "RKP2"
+      ]
+    },
+    {
+      "id": "CT-KVWRJT",
+      "sites": [
+        "DE"
+      ],
+      "campaign": "WLM Email Only Customers ",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "",
+      "offerText": "25 % Rabatt! ",
+      "subText": "Plus Gratis-Lieferung ab einem Einkauf von 200 €",
+      "bannerEnabled": true,
+      "bannerText": "25 % Rabatt! ",
+      "terms": "Angebotsbedingungen: Dieses Angebot ist nicht in Verbindung mit anderen Gutscheinen, Sonderangeboten oder Einführungspreisen gültig und endet am 7. Juni 2026 um 23:59 Uhr. Der Code kann nur für eine Transaktion verwendet werden. Sale, Express-Versandkosten, Geschenkgutscheine, Geschenkverpackungen und Änderungsarbeiten sind von diesem Angebot ausgeschlossen. Gutscheine können nicht gegen Bargeld umgetauscht werden. Wir behalten uns das Recht vor, dieses Angebot jederzeit und ohne vorherige Ankündigung zurückzuziehen, zu ändern oder zu erweitern. Die kostenlose Lieferung gilt ausschließlich für den Standardversand mit einem Mindestumsatz von 200 €. Die Allgemeinen Geschäftsbedingungen finden Sie auf charlestyrwhitt.com/de/agbs.html.",
+      "contact": "Charlotte C",
+      "suppDates": "22/05/26 - 25/05/26",
+      "startAt": "2026-05-12T00:00:00Z",
+      "endAt": "2026-07-07T23:59:59Z",
+      "prefixes": [
+        "RKP3"
+      ]
+    },
+    {
+      "id": "CT-26JHF2",
+      "sites": [
+        "FR"
+      ],
+      "campaign": "WLM Email Only Customers RKP4",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "",
+      "offerText": "20 % de réduction ! ",
+      "subText": "Et la livraison est gratuite dès 200 € d’achat",
+      "bannerEnabled": true,
+      "bannerText": "20 % de réduction ! ",
+      "terms": "20 % de réduction ! Et la livraison est gratuite dès 200 € d’achat",
+      "contact": "Charlotte C",
+      "suppDates": "22/05/26 - 25/05/26",
+      "startAt": "2026-05-12T00:00:00Z",
+      "endAt": "2026-06-07T23:59:59Z",
+      "prefixes": [
+        "RKP4"
+      ]
+    }
+  ],
+  "GI_SOURCECODE3_OFFERS": [],
+  "DM_SOURCECODE3_OFFERS": [
+    {
+      "sites": [
+        "US"
+      ],
+      "campaign": "NWLM",
+      "offerTitle": "$60 off",
+      "offerDescription": "$60 off no minimum spend.",
+      "offerText": "$60 OFF",
+      "subText": "No minimum spend",
+      "bannerEnabled": true,
+      "bannerText": "$60 off – Exclusive Reward",
+      "terms": "Terms and Conditions: Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com.",
+      "contact": "Daniel",
+      "suppDates": "",
+      "startAt": "2026-01-26T00:00:00Z",
+      "endAt": "2026-07-27T23:59:59Z",
+      "contains": "NW",
+      "id": "CT-7GYQ4B"
+    },
+    {
+      "sites": [
+        "US"
+      ],
+      "campaign": "2nd Purchase Postcard (A Segment)",
+      "offerTitle": "3 Shirts $149 + 20% Off",
+      "offerDescription": "3 Shirts or Polos $149 + 20% Off everything else.",
+      "offerText": "3 SHIRTS $149",
+      "subText": "+ 20% off everything else",
+      "bannerEnabled": true,
+      "bannerText": "3 Shirts or Polos $149.",
+      "terms": "Terms and Conditions: Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com.",
+      "contact": "",
+      "suppDates": "",
+      "startAt": "2026-01-26T00:00:00Z",
+      "endAt": "2026-07-27T23:59:59Z",
+      "contains": [
+        "SEC",
+        "TESTSEG"
+      ],
+      "id": "CT-3X45LQ"
+    },
+    {
+      "sites": [
+        "US"
+      ],
+      "campaign": "NWLM",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy $75 off your next order, no minimum spend",
+      "offerText": "$75 off",
+      "subText": "No Minimum Spend",
+      "bannerEnabled": true,
+      "bannerText": "$75 Off",
+      "terms": "Terms and Conditions: Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates.  Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Daniel",
+      "suppDates": "",
+      "startAt": "2026-04-20T00:00:00Z",
+      "endAt": "2026-04-27T23:59:59Z",
+      "contains": "NW",
+      "id": "CT-DJ9MZC"
+    },
+    {
+      "sites": [
+        "US"
+      ],
+      "campaign": "2nd Purchase Postcard (B Segment)",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy 3 Shirts or Polos $149 + Free Shipping",
+      "offerText": "3 Shirts or Polos $149 ",
+      "subText": "+ Free Shipping",
+      "bannerEnabled": true,
+      "bannerText": "3 Shirts or Polos $149 ",
+      "terms": "Terms and Conditions: Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates.  Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Daniel",
+      "suppDates": "",
+      "startAt": "2026-04-20T00:00:00Z",
+      "endAt": "2026-04-27T23:59:59Z",
+      "contains": "SEC",
+      "id": "CT-L6SFNX"
+    }
+  ],
+  "SUPPRESSION": [
+    {
+      "sites": [
+        "UK"
+      ],
+      "ranges": [
+        {
+          "start": "2026-05-22",
+          "end": "2026-05-25"
+        }
+      ]
+    },
+    {
+      "sites": [
+        "UK"
+      ],
+      "ranges": [
+        {
+          "start": "2026-05-22",
+          "end": "2026-05-25"
+        }
+      ]
+    },
+    {
+      "sites": [
+        "DE"
+      ],
+      "ranges": [
+        {
+          "start": "2026-05-22",
+          "end": "2026-05-25"
+        }
+      ]
+    },
+    {
+      "sites": [
+        "FR"
+      ],
+      "ranges": [
+        {
+          "start": "2026-05-22",
+          "end": "2026-05-25"
+        }
+      ]
+    },
+    {
+      "sites": [
+        "UK"
+      ],
+      "ranges": [
+        {
+          "start": "2026-05-22",
+          "end": "2026-05-25"
+        }
+      ]
+    },
+    {
+      "sites": [
+        "DE"
+      ],
+      "ranges": [
+        {
+          "start": "2026-05-22",
+          "end": "2026-05-25"
+        }
+      ]
+    },
+    {
+      "sites": [
+        "FR"
+      ],
+      "ranges": [
+        {
+          "start": "2026-05-22",
+          "end": "2026-05-25"
+        }
+      ]
+    },
+    {
+      "sites": [
+        "UK"
+      ],
+      "ranges": [
+        {
+          "start": "2026-05-22",
+          "end": "2026-05-25"
+        }
+      ]
+    },
+    {
+      "sites": [
+        "UK"
+      ],
+      "ranges": [
+        {
+          "start": "2026-05-22",
+          "end": "2026-05-25"
+        }
+      ]
+    },
+    {
+      "sites": [
+        "UK"
+      ],
+      "ranges": [
+        {
+          "start": "2026-05-22",
+          "end": "2026-05-25"
+        }
+      ]
+    },
+    {
+      "sites": [
+        "UK"
+      ],
+      "ranges": [
+        {
+          "start": "2026-05-22",
+          "end": "2026-05-25"
+        }
+      ]
+    },
+    {
+      "sites": [
+        "DE"
+      ],
+      "ranges": [
+        {
+          "start": "2026-05-22",
+          "end": "2026-05-25"
+        }
+      ]
+    },
+    {
+      "sites": [
+        "DE"
+      ],
+      "ranges": [
+        {
+          "start": "2026-05-22",
+          "end": "2026-05-25"
+        }
+      ]
+    },
+    {
+      "sites": [
+        "DE"
+      ],
+      "ranges": [
+        {
+          "start": "2026-05-22",
+          "end": "2026-05-25"
+        }
+      ]
+    }
+  ]
+}
