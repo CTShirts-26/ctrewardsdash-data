@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-05-12T13:55:59.101Z",
+    "lastUpdated": "2026-05-12T13:56:21.343Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -321,22 +321,6 @@
         "suppDates": "22/05/26 - 25/05/26",
         "startAt": "2026-05-12T00:00:00Z",
         "endAt": "2026-06-07T23:59:59Z"
-      },
-      "sss": {
-        "id": "CT-GRYWAS",
-        "sites": null,
-        "campaign": "TEST FOR STG",
-        "offerTitle": "",
-        "offerDescription": "",
-        "offerText": "sss",
-        "subText": "",
-        "bannerEnabled": true,
-        "bannerText": "",
-        "terms": "",
-        "contact": "",
-        "suppDates": "",
-        "startAt": "",
-        "endAt": ""
       }
     },
     "de": {
