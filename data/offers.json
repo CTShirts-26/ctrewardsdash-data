@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-05-14T08:48:31.981Z",
+    "lastUpdated": "2026-05-14T10:54:37.897Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -79,6 +79,59 @@
         }
       ],
       "customUocAttr": "",
+      "customUocMode": "attr",
+      "srcType": "custom"
+    },
+    {
+      "id": "CT-TCDLYL",
+      "sites": [
+        "DE",
+        "FR"
+      ],
+      "campaign": "",
+      "offerTitle": "Willkommensangebot",
+      "offerDescription": "Hemden oder Polos für 39,95 € + Gratis Versand",
+      "offerText": "39,95 € Hemden oder Polos",
+      "subText": "Und Gratis Versand",
+      "bannerEnabled": true,
+      "bannerText": "39,95€ shirts",
+      "terms": "N/A - not for UK",
+      "contact": "Sarah",
+      "suppDates": "",
+      "startAt": "",
+      "endAt": "2026-08-09T23:59:59Z",
+      "translations": {
+        "de": {
+          "offerText": "Hemden oder Polos für 39,95 €",
+          "subText": "Und Gratis Versand",
+          "offerTitle": "Willkommensangebot",
+          "offerDescription": "Hemden oder Polos für 39,95 € + Gratis Versand",
+          "bannerText": "Hemden oder Polos für 39,95 € + Gratis Versand - Exklusiv",
+          "terms": "Angebotsbedingungen: Diese Aktion kann nicht in Verbindung mit anderen Gutscheinen, Sonderangeboten oder Einführungspreisen genutzt werden. Das Enddatum des Angebots ist auf dem Mailing angegeben. Es ist auf eine Bestellung von bis zu 5 Hemden pro Haushalt beschränkt und ausschließlich für den Empfänger des Mailings bestimmt. Sale, England Rugby Lizenzsortiment, Luxuriöses 140s Twill, Liberty Fabrics Hemdenkollektion, Overshirts, Versandkosten, Geschenkgutscheine, Geschenkverpackungen, Expressversand und Änderungsarbeiten sind von diesem Angebot ausgeschlossen.  Der kostenlose Versand gilt nur für den Standardversand. Gutscheine können nicht gegen Bargeld umgetauscht werden. Wir behalten uns das Recht vor, dieses Angebot jederzeit und ohne vorherige Ankündigung zurückzuziehen, zu ändern oder zu erweitern. Die allgemeinen Geschäftsbedingungen finden Sie unter charlestyrwhitt.com/de/agbs.html."
+        },
+        "fr": {
+          "offerText": "Chemises ou polos à 39,95 €",
+          "subText": "+ Livraison gratuite",
+          "offerTitle": "Offre de bienvenue",
+          "offerDescription": "Chemises ou polos à 39,95 € + Livraison gratuite",
+          "bannerText": "Chemises ou polos à 39,95 € + Livraison gratuite - Rien que pour toi",
+          "terms": "Cette promotion est réservée au destinataire du message et ne peut être cumulée avec d’autres bons d’achat, promotions spéciales ou remises de bienvenue. L’offre\nconcernant les chemises à 39,95 € est limitée à une commande allant jusqu’à 5 chemises par foyer. Cette offre n’est pas valable sur les modèles sur-mesure Charles Tyrwhitt, les promotions, le\ndéstockage, la collection sous licence England Rugby, la collection New York Jets, les chemises Luxury 140s Twill, la collection de chemises en tissu Liberty, les surchemises, les frais de livraison\nexpress, les chèques-cadeau, les coffrets-cadeau et les retouches. La livraison gratuite s’applique à la livraison standard uniquement. Cette offre ne peut être échangée contre des espèces. Nous\nnous réservons le droit de retirer, modifier ou prolonger cette offre à tout moment sans préavis. Pour consulter nos conditions générales standard, rendez-vous sur notre site web."
+        }
+      },
+      "customQualifiers": [
+        {
+          "attr": "gi_SourceCode3",
+          "operator": "equals",
+          "value": "GEHSS26NLM1"
+        },
+        {
+          "attr": "gi_SourceCode3",
+          "operator": "equals",
+          "value": "FRHSS26NLM"
+        }
+      ],
+      "customQualifierLogic": "or",
+      "customUocAttr": "gi_OfferCode3",
       "customUocMode": "attr",
       "srcType": "custom"
     }
