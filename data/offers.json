@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-05-12T13:56:21.343Z",
+    "lastUpdated": "2026-05-14T08:06:22.272Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -79,6 +79,42 @@
         }
       ],
       "customUocAttr": "",
+      "customUocMode": "attr",
+      "srcType": "custom"
+    },
+    {
+      "id": "CT-YBJGRE",
+      "sites": [
+        "US"
+      ],
+      "campaign": "US React May - June ",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "3 Shirts or Polos for $119, Shirts from $44.75, Chinos from $89 and Knitwear from $89",
+      "offerText": "3 Shirts or Polos for $119",
+      "subText": "Shirts from $44.75 ",
+      "bannerEnabled": true,
+      "bannerText": "3 Shirts or Polos for $119",
+      "terms": "",
+      "contact": "",
+      "suppDates": "",
+      "startAt": "2026-05-18T00:00:00Z",
+      "endAt": "2026-06-07T23:59:59Z",
+      "codeType": "static_single",
+      "staticCode": "XY9T2RM8C",
+      "customQualifiers": [
+        {
+          "attr": "gi_worth_segmentation",
+          "operator": "contains",
+          "value": "react"
+        },
+        {
+          "attr": "dm_worth_segmentation",
+          "operator": "contains",
+          "value": "react"
+        }
+      ],
+      "customQualifierLogic": "or",
+      "customUocAttr": "gi_UOC",
       "customUocMode": "attr",
       "srcType": "custom"
     }
