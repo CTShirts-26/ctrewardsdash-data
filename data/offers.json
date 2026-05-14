@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-05-14T10:54:37.897Z",
+    "lastUpdated": "2026-05-14T11:02:39.057Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -627,6 +627,25 @@
         "UKHSS26NLM2",
         "GEHSS26NLM2"
       ]
+    },
+    {
+      "id": "CT-W39EVL",
+      "sites": [
+        "UK"
+      ],
+      "campaign": "SS26 UK Nursery Shirt Specialism",
+      "offerTitle": "Exclusively for you",
+      "offerDescription": "Enjoy 3 shirts or polos for just £99 using your unique offer code.",
+      "offerText": "3 Shirts or Polos for £99",
+      "subText": "Exclusions apply, see T&Cs for more details.",
+      "bannerEnabled": true,
+      "bannerText": "3 Shirts or Polos for £99. Use your unique offer code to redeem.",
+      "terms": "Terms & Conditions: This 3 for £99 discount offer can only be used once in a single transaction. This offer includes all shirts and polos. This cannot be combined with any other special offers or vouchers. Clearance items, postage, gift vouchers and customisation charges are also excluded. The discount will be applied at basket. We reserve the right to withdraw, amend or extend this offer at any time without prior notice. Full terms and conditions are available at charlestyrwhitt.com.",
+      "contact": "Sarah",
+      "suppDates": "",
+      "startAt": "",
+      "endAt": "2026-08-09T23:59:59Z",
+      "contains": "UKHSS26NBK1"
     }
   ],
   "DM_SOURCECODE3_OFFERS": [
