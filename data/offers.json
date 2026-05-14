@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-05-13T16:18:06.468Z",
+    "lastUpdated": "2026-05-14T07:57:35.084Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -97,7 +97,7 @@
       "terms": "",
       "contact": "",
       "suppDates": "",
-      "startAt": "2026-05-18T00:00:00Z",
+      "startAt": "2026-05-13T00:00:00Z",
       "endAt": "2026-06-07T23:59:59Z",
       "codeType": "static_single",
       "staticCode": "XY9T2RM8C",
@@ -105,12 +105,12 @@
         {
           "attr": "gi_worth_segmentation",
           "operator": "contains",
-          "value": "react"
+          "value": "test"
         },
         {
           "attr": "dm_worth_segmentation",
           "operator": "contains",
-          "value": "react"
+          "value": "test"
         }
       ],
       "customQualifierLogic": "or",
