@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-06-05T08:42:45.412Z",
+    "lastUpdated": "2026-06-05T08:44:19.631Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -267,6 +267,37 @@
       "endAt": "",
       "codeType": "static_single",
       "staticCode": "SAVE20",
+      "customQualifiers": [
+        {
+          "attr": "in_programme",
+          "operator": "equals",
+          "value": "NURSERY_3"
+        }
+      ],
+      "customQualifierLogic": "and",
+      "customUocAttr": "gi_UOC",
+      "customUocMode": "attr",
+      "srcType": "custom"
+    },
+    {
+      "id": "CT-VHFN48",
+      "sites": [
+        "DE"
+      ],
+      "campaign": "DE Nursery 3",
+      "offerTitle": "",
+      "offerDescription": "",
+      "offerText": "20 % Rabatt",
+      "subText": "",
+      "bannerEnabled": true,
+      "bannerText": "20 % Rabatt",
+      "terms": "",
+      "contact": "",
+      "suppDates": "",
+      "startAt": "2026-06-05T00:00:00Z",
+      "endAt": "",
+      "codeType": "static_single",
+      "staticCode": "FURSIE20",
       "customQualifiers": [
         {
           "attr": "in_programme",
