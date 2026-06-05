@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-06-05T08:48:02.557Z",
+    "lastUpdated": "2026-06-05T08:49:02.799Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -394,6 +394,43 @@
       "translations": {
         "de": {
           "offerText": "Shirts or Polos from £29.95"
+        },
+        "fr": {}
+      },
+      "customQualifiers": [
+        {
+          "attr": "in_programme",
+          "operator": "equals",
+          "value": "NURSERY_5"
+        }
+      ],
+      "customQualifierLogic": "and",
+      "customUocAttr": "gi_UOC",
+      "customUocMode": "attr",
+      "srcType": "custom"
+    },
+    {
+      "id": "CT-JTSMM7",
+      "sites": [
+        "DE"
+      ],
+      "campaign": "DE Nursery 5",
+      "offerTitle": "",
+      "offerDescription": "",
+      "offerText": "Hemden oder Polos ab 34,95€",
+      "subText": "",
+      "bannerEnabled": true,
+      "bannerText": "Hemden oder Polos ab 34,95€",
+      "terms": "",
+      "contact": "",
+      "suppDates": "",
+      "startAt": "2026-06-05T00:00:00Z",
+      "endAt": "",
+      "codeType": "static_single",
+      "staticCode": "ELEGANT39",
+      "translations": {
+        "de": {
+          "offerText": "Hemden oder Polos ab 34,95€"
         },
         "fr": {}
       },
