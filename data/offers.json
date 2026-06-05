@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-06-05T08:35:59.099Z",
+    "lastUpdated": "2026-06-05T08:38:03.269Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -205,6 +205,37 @@
       "endAt": "",
       "codeType": "static_single",
       "staticCode": "NEU2026",
+      "customQualifiers": [
+        {
+          "attr": "in_programme",
+          "operator": "equals",
+          "value": "NURSERY_2"
+        }
+      ],
+      "customQualifierLogic": "and",
+      "customUocAttr": "gi_UOC",
+      "customUocMode": "attr",
+      "srcType": "custom"
+    },
+    {
+      "id": "CT-BRK3Z2",
+      "sites": [
+        "FR"
+      ],
+      "campaign": "FR Nursery 2",
+      "offerTitle": "",
+      "offerDescription": "",
+      "offerText": "3 Chemises ou Polos 99 €",
+      "subText": "",
+      "bannerEnabled": true,
+      "bannerText": "4 Chemises ou Polos 199 €",
+      "terms": "",
+      "contact": "",
+      "suppDates": "",
+      "startAt": "2026-06-05T00:00:00Z",
+      "endAt": "",
+      "codeType": "static_single",
+      "staticCode": "3POUR99",
       "customQualifiers": [
         {
           "attr": "in_programme",
