@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-06-05T08:10:38.148Z",
+    "lastUpdated": "2026-06-05T08:15:49.290Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -119,11 +119,11 @@
       "srcType": "custom"
     },
     {
-      "id": "CT-YSH7HL",
+      "id": "CT-EMMTMW",
       "sites": [
         "UK"
       ],
-      "campaign": "UK Nursery 2",
+      "campaign": "UK Nursery 2 (B)",
       "offerTitle": "Exclusive Reward",
       "offerDescription": "",
       "offerText": "3 Shirts or Polos for £99",
@@ -143,12 +143,12 @@
         },
         {
           "attr": "gi_SourceCode3",
-          "operator": "contains",
+          "operator": "not_equals",
           "value": "UKHSS26NBK1"
         }
       ],
       "customQualifierLogic": "and",
-      "customUocAttr": "gi_UOC3",
+      "customUocAttr": "UK_Nursery_Shirt_Spec_UOC",
       "customUocMode": "attr",
       "srcType": "custom"
     }
