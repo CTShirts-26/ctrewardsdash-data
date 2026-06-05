@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-06-05T08:47:06.634Z",
+    "lastUpdated": "2026-06-05T08:48:02.557Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -365,6 +365,43 @@
           "attr": "in_programme",
           "operator": "equals",
           "value": "NURSERY_4"
+        }
+      ],
+      "customQualifierLogic": "and",
+      "customUocAttr": "gi_UOC",
+      "customUocMode": "attr",
+      "srcType": "custom"
+    },
+    {
+      "id": "CT-XTY575",
+      "sites": [
+        "UK"
+      ],
+      "campaign": "UK Nursery 5",
+      "offerTitle": "",
+      "offerDescription": "",
+      "offerText": "Shirts or Polos from £29.95",
+      "subText": "",
+      "bannerEnabled": true,
+      "bannerText": "Shirts or Polos from £29.95",
+      "terms": "",
+      "contact": "",
+      "suppDates": "",
+      "startAt": "2026-06-05T00:00:00Z",
+      "endAt": "",
+      "codeType": "static_single",
+      "staticCode": "INSTYLE29",
+      "translations": {
+        "de": {
+          "offerText": "Shirts or Polos from £29.95"
+        },
+        "fr": {}
+      },
+      "customQualifiers": [
+        {
+          "attr": "in_programme",
+          "operator": "equals",
+          "value": "NURSERY_5"
         }
       ],
       "customQualifierLogic": "and",
