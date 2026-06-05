@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-06-05T08:45:18.703Z",
+    "lastUpdated": "2026-06-05T08:47:06.634Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -334,6 +334,37 @@
           "attr": "in_programme",
           "operator": "equals",
           "value": "NURSERY_3"
+        }
+      ],
+      "customQualifierLogic": "and",
+      "customUocAttr": "gi_UOC",
+      "customUocMode": "attr",
+      "srcType": "custom"
+    },
+    {
+      "id": "CT-DTL5RW",
+      "sites": [
+        "UK"
+      ],
+      "campaign": "UK Nursery 4",
+      "offerTitle": "",
+      "offerDescription": "",
+      "offerText": "2 Shirts or Polos for £59",
+      "subText": "",
+      "bannerEnabled": true,
+      "bannerText": "2 Shirts or Polos for £59",
+      "terms": "",
+      "contact": "",
+      "suppDates": "",
+      "startAt": "2026-06-05T00:00:00Z",
+      "endAt": "",
+      "codeType": "static_single",
+      "staticCode": "2FOR59",
+      "customQualifiers": [
+        {
+          "attr": "in_programme",
+          "operator": "equals",
+          "value": "NURSERY_4"
         }
       ],
       "customQualifierLogic": "and",
