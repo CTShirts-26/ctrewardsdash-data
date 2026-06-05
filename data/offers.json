@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-06-05T08:35:55.266Z",
+    "lastUpdated": "2026-06-05T08:35:57.240Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -358,21 +358,6 @@
         "startAt": "2026-02-09T00:00:00Z",
         "endAt": "2026-03-09T23:59:59Z",
         "id": "CT-EKENPS"
-      },
-      "SS26_BCMC": {
-        "sites": [
-          "UK"
-        ],
-        "offerTitle": "Exclusive Reward",
-        "offerDescription": "20% off your order.",
-        "offerText": "20% OFF",
-        "subText": "No minimum spend",
-        "bannerEnabled": true,
-        "bannerText": "20% off – Exclusive Reward",
-        "terms": "Terms and Conditions: Offer ends at 11:59pm on 1st March 2026.",
-        "startAt": "2026-02-09T00:00:00Z",
-        "endAt": "2026-03-09T23:59:59Z",
-        "id": "CT-8KYXSD"
       },
       "SS26_UK_HFWLM": {
         "id": "CT-EAMA27",
