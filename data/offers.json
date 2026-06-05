@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-06-05T08:15:49.290Z",
+    "lastUpdated": "2026-06-05T08:23:02.534Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -143,7 +143,7 @@
         },
         {
           "attr": "gi_SourceCode3",
-          "operator": "not_equals",
+          "operator": "does_not_contain",
           "value": "UKHSS26NBK1"
         }
       ],
