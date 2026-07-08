@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-08T16:50:44.405Z",
+    "lastUpdated": "2026-07-08T16:52:10.577Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -550,8 +550,8 @@
       "terms": "This offer ends at 11:59PM (PST) on October 4th, 2026. Minimum spend of $150 required to unlock $75 Off. Quote offer code in store, over the phone or apply offer code in bag at charlestyrwhitt.com. Custom, clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates.  Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
       "contact": "Cale Shumway",
       "suppDates": "",
-      "startAt": "2026-09-14T00:00:00Z",
-      "endAt": "2026-10-04T23:59:59Z",
+      "startAt": "2026-09-04T00:00:00Z",
+      "endAt": "2026-10-05T23:59:59Z",
       "dmVersion": "dm"
     },
     "XFY2": {
@@ -568,8 +568,8 @@
       "bannerText": "$75 Off - Exclusive Reward",
       "terms": "This offer ends at 11:59PM (PST) on October 4th, 2026. Quote offer code in store, over the phone or apply offer code in bag at charlestyrwhitt.com. Custom, clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates.  Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
       "contact": "Cale Shumway",
-      "suppDates": "",
-      "startAt": "2026-09-14T00:00:00Z",
+      "suppDates": "4/9/26 - 5/10/26",
+      "startAt": "2026-09-04T00:00:00Z",
       "endAt": "2026-10-04T23:59:59Z",
       "dmVersion": "dm"
     }
@@ -962,6 +962,17 @@
         {
           "start": "2026-08-13",
           "end": "2026-08-16"
+        }
+      ]
+    },
+    {
+      "sites": [
+        "US"
+      ],
+      "ranges": [
+        {
+          "start": "2026-09-04",
+          "end": "2026-10-05"
         }
       ]
     },
