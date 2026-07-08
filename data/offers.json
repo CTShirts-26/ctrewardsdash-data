@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-06-05T08:49:02.799Z",
+    "lastUpdated": "2026-07-08T12:48:47.382Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -463,21 +463,6 @@
       "endAt": "2026-02-09T00:00:00Z",
       "id": "CT-V6H3JH"
     },
-    "USH471GPB": {
-      "sites": [
-        "US"
-      ],
-      "offerTitle": "Exclusive Reward",
-      "offerDescription": "Enjoy 30% off your order.",
-      "offerText": "30% OFF",
-      "subText": "Full-price items only - No minimum spend",
-      "bannerEnabled": true,
-      "bannerText": "30% off – Exclusive Reward",
-      "terms": "This offer ends at 11:59PM (PST) on February 8th, 2026.",
-      "startAt": "2026-01-26T00:00:00Z",
-      "endAt": "2026-02-09T00:00:00Z",
-      "id": "CT-NTJF8R"
-    },
     "USH471GPC": {
       "sites": [
         "US"
@@ -529,6 +514,25 @@
       "suppDates": "",
       "startAt": "2026-04-20T00:00:00Z",
       "endAt": "2026-05-18T23:59:59Z",
+      "dmVersion": "dm"
+    },
+    "USH471GPB": {
+      "id": "CT-NTJF8R",
+      "sites": [
+        "US"
+      ],
+      "campaign": ".",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy 30% off your order.",
+      "offerText": "30% OFF",
+      "subText": "Full-price items only - No minimum spend",
+      "bannerEnabled": true,
+      "bannerText": "30% off – Exclusive Reward",
+      "terms": "This offer ends at 11:59PM (PST) on February 8th, 2026.",
+      "contact": "",
+      "suppDates": "",
+      "startAt": "2026-01-26T00:00:00Z",
+      "endAt": "2026-02-09T23:59:59Z",
       "dmVersion": "dm"
     }
   },
