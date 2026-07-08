@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-08T12:48:47.382Z",
+    "lastUpdated": "2026-07-08T13:15:41.665Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -711,6 +711,30 @@
         "JEH9",
         "JEH4"
       ]
+    },
+    {
+      "id": "CT-KRVC3A",
+      "sites": [
+        "AU"
+      ],
+      "campaign": "AW26 AUS WLM",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy $50 Off your next order with no minimum spend. ",
+      "offerText": "$50 Off",
+      "subText": "",
+      "bannerEnabled": true,
+      "bannerText": "$50 Off - Exclusive Reward",
+      "terms": "This offer ends at 23:59 (AEST) on August 23rd, 2026. Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates. Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Cale Shumway",
+      "suppDates": "13/8/26-16/8/26",
+      "startAt": "2026-07-26T00:00:00Z",
+      "endAt": "2026-08-23T23:59:59Z",
+      "prefixes": [
+        "XHY2",
+        "XHY3",
+        "XHY4",
+        "XHY6"
+      ]
     }
   ],
   "GI_SOURCECODE3_OFFERS": [
@@ -889,6 +913,17 @@
         {
           "start": "2026-05-19",
           "end": "2026-05-25"
+        }
+      ]
+    },
+    {
+      "sites": [
+        "AU"
+      ],
+      "ranges": [
+        {
+          "start": "2026-08-13",
+          "end": "2026-08-16"
         }
       ]
     }
