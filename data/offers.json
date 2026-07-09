@@ -1,154 +1,36 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-09T12:26:00.026Z",
+    "lastUpdated": "2026-07-09T13:53:52.457Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
   "OFFER_CONFIGS": [
     {
+      "id": "CT-7GYQ4B",
       "sites": [
         "US"
       ],
-      "campaign": "Loyalty 1st Purchase ",
-      "offerTitle": "Welcome offer",
-      "offerDescription": "As a thank you for your first purchase, enjoy $60 off your next full-price order.",
+      "campaign": "NWLM A",
+      "offerTitle": "$60 off - Exclusive Reward",
+      "offerDescription": "$60 off no minimum spend.",
       "offerText": "$60 OFF",
       "subText": "No minimum spend",
       "bannerEnabled": true,
-      "bannerText": "Get $60 OFF your next order",
-      "terms": "This offer is intended for the and can only be used once in a single order. US Customers only. Not valid on Clearance and/or Last Chance items.",
-      "contact": "George",
+      "bannerText": "$60 off – Exclusive Reward",
+      "terms": "Terms and Conditions: Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates.  Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Daniel",
       "suppDates": "",
       "startAt": "2026-01-26T00:00:00Z",
-      "endAt": "DAYS:14",
-      "payloadKey": "uoc-web-loyalty-level1",
-      "attrName": "UOC_Web_Loyalty_Level1",
-      "assignedPayloadKey": "loyalty-level1-assigned-date",
-      "id": "CT-DZWPWU"
-    },
-    {
-      "id": "CT-22M9AX",
-      "sites": [
-        "DE"
-      ],
-      "campaign": "GEHSS26WLM",
-      "offerTitle": "Exclusive Reward",
-      "offerDescription": "",
-      "offerText": "25 % Rabatt",
-      "subText": "Plus Gratis-Lieferung ab einem Einkauf von 200 €",
-      "bannerEnabled": true,
-      "bannerText": "25 % Rabatt",
-      "terms": "Angebotsbedingungen: Dieses Angebot ist nicht in Verbindung mit anderen Gutscheinen, Sonderangeboten oder Einführungspreisen gültig und endet am 7. Juni 2026 um 23:59 Uhr. Der Code kann nur für eine Transaktion verwendet werden. Sale, Express-Versandkosten, Geschenkgutscheine, Geschenkverpackungen und Änderungsarbeiten sind von diesem Angebot ausgeschlossen. Gutscheine können nicht gegen Bargeld umgetauscht werden. Wir behalten uns das Recht vor, dieses Angebot jederzeit und ohne vorherige Ankündigung zurückzuziehen, zu ändern oder zu erweitern. Die kostenlose Lieferung gilt ausschließlich für den Standardversand mit einem Mindestumsatz von 200 €. Die Allgemeinen Geschäftsbedingungen finden Sie auf charlestyrwhitt.com/de/agbs.html.",
-      "contact": "Charlotte C",
-      "suppDates": "22/05/26 - 25/05/26",
-      "startAt": "2026-05-12T00:00:00Z",
-      "endAt": "2026-06-07T23:59:59Z",
+      "endAt": "2026-07-27T23:59:59Z",
       "customQualifiers": [
         {
-          "attr": "gi_EmailSegmentation",
+          "attr": "dm_UOC3",
           "operator": "contains",
-          "value": "SS26_DE_HFWLM"
-        }
-      ],
-      "customUocAttr": "",
-      "customUocMode": "attr",
-      "srcType": "custom"
-    },
-    {
-      "id": "CT-RDLL5U",
-      "sites": [
-        "FR"
-      ],
-      "campaign": "FRHSS26WLM",
-      "offerTitle": "Exclusive Reward",
-      "offerDescription": "",
-      "offerText": "20 % de réduction ! ",
-      "subText": "Et la livraison est gratuite dès 200 € d’achat",
-      "bannerEnabled": true,
-      "bannerText": "20 % de réduction ! ",
-      "terms": "Conditions générales : Offre valable jusqu'au 7 juin 2025 à 23h59. Cette promotion n'est pas cumulable avec d'autres bons d'achat, promotions spéciales ou offres à prix de lancement. Elle est réservée au destinataire de l'e-mail. Le code ne peut être utilisé que pour une seule transaction. Saisissez votre code promo exclusif dans le panier d'achat pour bénéficier de l'offre. Cette offre ne s'applique pas au déstockage, aux articles en solde, aux frais d'expédition, aux bons d'achat, aux coffrets cadeaux et aux retouches. La livraison gratuite s'applique à la livraison standard pour un achat minimum de 200 €. Elle ne peut être échangée contre de l'argent. Nous nous réservons le droit de retirer, de modifier ou de prolonger cette offre à tout moment et sans préavis. Pour les conditions générales standard, veuillez consulter notre site web.",
-      "contact": "Charlotte C",
-      "suppDates": "22/05/26 - 25/05/26",
-      "startAt": "2026-05-12T00:00:00Z",
-      "endAt": "2026-06-07T23:59:59Z",
-      "customQualifiers": [
-        {
-          "attr": "gi_EmailSegmentation",
-          "operator": "contains",
-          "value": "SS26_FR_HFWLM"
-        }
-      ],
-      "customUocAttr": "",
-      "customUocMode": "attr",
-      "srcType": "custom"
-    },
-    {
-      "id": "CT-YBJGRE",
-      "sites": [
-        "US"
-      ],
-      "campaign": "US React May - June ",
-      "offerTitle": "Exclusive Reward",
-      "offerDescription": "3 Shirts or Polos for $119, Shirts from $44.75, Chinos from $89 and Knitwear from $89",
-      "offerText": "3 Shirts or Polos for $119",
-      "subText": "Shirts from $44.75 ",
-      "bannerEnabled": true,
-      "bannerText": "3 Shirts or Polos for $119",
-      "terms": "",
-      "contact": "",
-      "suppDates": "19/05/2026 - 25/05/2026",
-      "startAt": "2026-05-18T00:00:00Z",
-      "endAt": "2026-06-07T23:59:59Z",
-      "codeType": "static_single",
-      "staticCode": "XY9T2RM8C",
-      "customQualifiers": [
-        {
-          "attr": "gi_worth_segmentation",
-          "operator": "contains",
-          "value": "react"
-        },
-        {
-          "attr": "dm_worth_segmentation",
-          "operator": "contains",
-          "value": "react"
-        }
-      ],
-      "customQualifierLogic": "or",
-      "customUocAttr": "gi_UOC",
-      "customUocMode": "attr",
-      "srcType": "custom"
-    },
-    {
-      "id": "CT-EMMTMW",
-      "sites": [
-        "UK"
-      ],
-      "campaign": "UK Nursery 2 (B)",
-      "offerTitle": "Exclusive Reward",
-      "offerDescription": "",
-      "offerText": "3 Shirts or Polos for £99",
-      "subText": "",
-      "bannerEnabled": true,
-      "bannerText": "3 Shirts or Polos for £99",
-      "terms": "",
-      "contact": "",
-      "suppDates": "",
-      "startAt": "2026-06-05T00:00:00Z",
-      "endAt": "",
-      "customQualifiers": [
-        {
-          "attr": "in_programme",
-          "operator": "equals",
-          "value": "NURSERY_2"
-        },
-        {
-          "attr": "gi_SourceCode3",
-          "operator": "does_not_contain",
-          "value": "UKHSS26NBK1"
+          "value": "XJY7"
         }
       ],
       "customQualifierLogic": "and",
-      "customUocAttr": "UK_Nursery_Shirt_Spec_UOC",
+      "customUocAttr": "dm_UOC3",
       "customUocMode": "attr",
       "srcType": "custom"
     },
@@ -809,44 +691,6 @@
         "XHY4",
         "XHY6"
       ]
-    },
-    {
-      "id": "CT-RY7EGH",
-      "sites": [
-        "CA"
-      ],
-      "campaign": "AW26 CA WLM A",
-      "offerTitle": "Exclusive Reward",
-      "offerDescription": "Enjoy C$75 Off your next order with no minimum spend.",
-      "offerText": "C$75 Off",
-      "subText": "No minimum spend",
-      "bannerEnabled": true,
-      "bannerText": "C$75 Off - Exclusive Reward",
-      "terms": "This offer ends at 23:59 (PST) on October 4th, 2026. Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates.  Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
-      "contact": "Cale Shumway",
-      "suppDates": "",
-      "startAt": "2026-09-14T00:00:00Z",
-      "endAt": "2026-10-04T23:59:59Z",
-      "translations": {
-        "de": {
-          "offerText": "75 $ CA DE RÉDUCTION",
-          "subText": "sans minimum d’achat",
-          "offerTitle": "Offre exclusive",
-          "offerDescription": "Profitez de 75 $ CA de réduction sur votre prochaine commande, sans minimum d’achat.",
-          "bannerText": "75 $ CA DE RÉDUCTION - Offre exclusive",
-          "terms": "This offer ends at 23:59 (PST) on October 4th, 2026. Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates.  Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website."
-        },
-        "fr": {
-          "offerText": "75 $ CA DE RÉDUCTION",
-          "subText": "Sans minimum d'achat",
-          "offerTitle": "Offre exclusive",
-          "bannerText": "75 $ CA DE RÉDUCTION - OFFRE EXCLUSIVE",
-          "terms": "Offre valable jusqu'au 4 octobre, 2026 à 23:59 (PST). Saisissez votre code promo exclusif dans le panier d'achat en ligne pour bénéficier de l'offre. Cette offre ne s'applique pas aux articles en solde/déstockage, aux frais d'expédition, aux bons d'achat, aux coffrets cadeaux et aux retouches. Cette promotion n'est pas cumulable avec d'autres bons d'achat, promotions spéciales ou offres à prix de lancement. Elle ne peut être échangée contre de l'argent. Cette offre ne peut être utilisée qu'une seule fois lors d'une même transaction. Cette offre ne peut être utilisée qu'une seule fois lors d'une même transaction. Nous nous réservons le droit de retirer, de modifier ou de prolonger cette offre à tout moment et sans préavis. Pour les conditions générales standard, veuillez consulter notre site web."
-        }
-      },
-      "prefixes": [
-        "XFY7"
-      ]
     }
   ],
   "GI_SOURCECODE3_OFFERS": [
@@ -886,25 +730,6 @@
     }
   ],
   "DM_SOURCECODE3_OFFERS": [
-    {
-      "sites": [
-        "US"
-      ],
-      "campaign": "NWLM",
-      "offerTitle": "$60 off",
-      "offerDescription": "$60 off no minimum spend.",
-      "offerText": "$60 OFF",
-      "subText": "No minimum spend",
-      "bannerEnabled": true,
-      "bannerText": "$60 off – Exclusive Reward",
-      "terms": "Terms and Conditions: Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com.",
-      "contact": "Daniel",
-      "suppDates": "",
-      "startAt": "2026-01-26T00:00:00Z",
-      "endAt": "2026-07-27T23:59:59Z",
-      "contains": "NW",
-      "id": "CT-7GYQ4B"
-    },
     {
       "sites": [
         "US"
