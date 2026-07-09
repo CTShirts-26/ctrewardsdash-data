@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-09T10:38:32.433Z",
+    "lastUpdated": "2026-07-09T11:20:47.978Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -581,7 +581,7 @@
       "campaign": "AW26 US WLM B",
       "offerTitle": "Exclusive Reward",
       "offerDescription": "Enjoy $75 Off any order over $150",
-      "offerText": "$75 Off",
+      "offerText": "$75 Off $150+",
       "subText": "$150 minumum spend",
       "bannerEnabled": true,
       "bannerText": "$75 Off with $150 minimum spend",
