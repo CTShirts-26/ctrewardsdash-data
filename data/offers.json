@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-09T10:26:02.710Z",
+    "lastUpdated": "2026-07-09T10:38:32.433Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -570,6 +570,25 @@
       "contact": "Cale Shumway",
       "suppDates": "",
       "startAt": "2026-09-14T00:00:00Z",
+      "endAt": "2026-10-04T23:59:59Z",
+      "dmVersion": "dm"
+    },
+    "XFY4": {
+      "id": "CT-3DM9J5",
+      "sites": [
+        "US"
+      ],
+      "campaign": "AW26 US WLM B",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy $75 Off any order over $150",
+      "offerText": "$75 Off",
+      "subText": "$150 minumum spend",
+      "bannerEnabled": true,
+      "bannerText": "$75 Off with $150 minimum spend",
+      "terms": "",
+      "contact": "Cale Shumway",
+      "suppDates": "",
+      "startAt": "2026-09-15T00:00:00Z",
       "endAt": "2026-10-04T23:59:59Z",
       "dmVersion": "dm"
     }
