@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-09T12:10:03.638Z",
+    "lastUpdated": "2026-07-09T12:16:14.881Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -839,6 +839,37 @@
       },
       "prefixes": [
         "XFY7"
+      ]
+    },
+    {
+      "id": "CT-5YP9RE",
+      "sites": [
+        "CA"
+      ],
+      "campaign": "AW26 CA WLM B",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy 30% Off your next order.",
+      "offerText": "30% Off",
+      "subText": "",
+      "bannerEnabled": true,
+      "bannerText": "30% Off - Exclusive Reward",
+      "terms": "This offer ends at 23:59 (PST) on October 4th, 2026. Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates.  Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Cale Shumway",
+      "suppDates": "",
+      "startAt": "2026-09-14T00:00:00Z",
+      "endAt": "2026-10-04T23:59:59Z",
+      "translations": {
+        "de": {
+          "offerText": "30% de réduction",
+          "offerTitle": "Offre exclusive",
+          "offerDescription": "30% de réduction",
+          "terms": "Offre valable jusqu'au 4 octobre, 2026 à 23:59 (PST). Saisissez votre code promo exclusif dans le panier d'achat en ligne pour bénéficier de l'offre. Cette offre ne s'applique pas aux articles en solde/déstockage, aux frais d'expédition, aux bons d'achat, aux coffrets cadeaux et aux retouches. Cette promotion n'est pas cumulable avec d'autres bons d'achat, promotions spéciales ou offres à prix de lancement. Elle ne peut être échangée contre de l'argent. Cette offre ne peut être utilisée qu'une seule fois lors d'une même transaction. Nous nous réservons le droit de retirer, de modifier ou de prolonger cette offre à tout moment et sans préavis. Pour les conditions générales standard, veuillez consulter notre site web.",
+          "bannerText": "30% de réduction - Offre exclusive"
+        },
+        "fr": {}
+      },
+      "prefixes": [
+        "XFYA"
       ]
     }
   ],
