@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-09T11:20:47.978Z",
+    "lastUpdated": "2026-07-09T11:31:37.128Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -611,6 +611,23 @@
       "suppDates": "",
       "startAt": "2026-04-20T00:00:00Z",
       "endAt": "2026-05-18T23:59:59Z",
+      "dmVersion": "dm2"
+    },
+    "XFY6": {
+      "id": "CT-69V4U6",
+      "sites": null,
+      "campaign": "AW26 US WLM R",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy 3 Shirts or Polos for $119 on your next order.",
+      "offerText": "3 Shirts or Polos for $119",
+      "subText": "",
+      "bannerEnabled": true,
+      "bannerText": "3 Shirts or Polos for $119 - Exclusive Reward ",
+      "terms": "This offer ends at 11:59PM (PST) on October 4th, 2026. Quote offer code in store, over the phone or apply offer code in bag at charlestyrwhitt.com. Liberty Fabric, Custom, Luxury 140s Twill, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates. Offer limited to up to 9 shirts.  Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Daniel Alvarez",
+      "suppDates": "",
+      "startAt": "2026-09-14T00:00:00Z",
+      "endAt": "2026-10-04T23:59:59Z",
       "dmVersion": "dm2"
     }
   },
