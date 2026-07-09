@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-09T14:10:21.189Z",
+    "lastUpdated": "2026-07-09T14:10:45.768Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -296,7 +296,9 @@
     },
     {
       "id": "CT-6SJX8P",
-      "sites": null,
+      "sites": [
+        "US"
+      ],
       "campaign": "US Nursery NWLM B",
       "offerTitle": "$75 Off - Exclusive Reward",
       "offerDescription": "Enjoy $75 off with no minimum spend ",
