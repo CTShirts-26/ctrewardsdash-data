@@ -1,22 +1,22 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-09T14:16:44.579Z",
+    "lastUpdated": "2026-07-09T14:23:00.965Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
   "OFFER_CONFIGS": [
     {
-      "id": "CT-7GYQ4B",
+      "id": "CT-3X45LQ",
       "sites": [
         "US"
       ],
-      "campaign": "NWLM A",
-      "offerTitle": "$60 off - Exclusive Reward",
-      "offerDescription": "$60 off no minimum spend.",
-      "offerText": "$60 OFF",
-      "subText": "No minimum spend",
+      "campaign": "US Nursery SS26 2nd Purchase Postcard A",
+      "offerTitle": "3 Shirts $149 + 20% Off - Exclusive Reward",
+      "offerDescription": "3 Shirts or Polos $149 + 20% Off Everything Else.",
+      "offerText": "3 SHIRTS $149",
+      "subText": "+ 20% off everything else",
       "bannerEnabled": true,
-      "bannerText": "$60 off – Exclusive Reward",
+      "bannerText": "3 Shirts or Polos $149 + 20% Off",
       "terms": "Terms and Conditions: Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates.  Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
       "contact": "Daniel",
       "suppDates": "",
@@ -25,46 +25,12 @@
       "customQualifiers": [
         {
           "attr": "dm_UOC3",
-          "operator": "contains",
-          "value": "XJY7"
+          "operator": "equals",
+          "value": "XKY4"
         }
       ],
       "customQualifierLogic": "and",
       "customUocAttr": "dm_UOC3",
-      "customUocMode": "attr",
-      "srcType": "custom"
-    },
-    {
-      "id": "CT-G4ZZ93",
-      "sites": [
-        "UK"
-      ],
-      "campaign": "UK Nursery 2 (A)",
-      "offerTitle": "Exclusive Reward",
-      "offerDescription": "",
-      "offerText": "3 Shirts or Polos for £99",
-      "subText": "",
-      "bannerEnabled": true,
-      "bannerText": "3 Shirts or Polos for £99",
-      "terms": "",
-      "contact": "",
-      "suppDates": "",
-      "startAt": "2026-06-05T00:00:00Z",
-      "endAt": "",
-      "customQualifiers": [
-        {
-          "attr": "in_programme",
-          "operator": "equals",
-          "value": "NURSERY_2"
-        },
-        {
-          "attr": "gi_SourceCode3",
-          "operator": "contains",
-          "value": "UKHSS26NBK1"
-        }
-      ],
-      "customQualifierLogic": "and",
-      "customUocAttr": "gi_UOC3",
       "customUocMode": "attr",
       "srcType": "custom"
     },
@@ -325,6 +291,64 @@
       ],
       "customQualifierLogic": "and",
       "customUocAttr": "gi_UOC",
+      "customUocMode": "attr",
+      "srcType": "custom"
+    },
+    {
+      "id": "CT-6SJX8P",
+      "sites": [
+        "US"
+      ],
+      "campaign": "US Nursery SS26 NWLM B",
+      "offerTitle": "$75 Off - Exclusive Reward",
+      "offerDescription": "Enjoy $75 off with no minimum spend ",
+      "offerText": "$75 Off",
+      "subText": "No minimum spend",
+      "bannerEnabled": true,
+      "bannerText": "$75 off - Exclusive Reward",
+      "terms": "Terms and Conditions: Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates.  Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Daniel",
+      "suppDates": "",
+      "startAt": "",
+      "endAt": "2026-07-27T23:59:59Z",
+      "customQualifiers": [
+        {
+          "attr": "dm_UOC3",
+          "operator": "equals",
+          "value": "XJYA"
+        }
+      ],
+      "customQualifierLogic": "and",
+      "customUocAttr": "dm_UOC3",
+      "customUocMode": "attr",
+      "srcType": "custom"
+    },
+    {
+      "id": "CT-FUSEKY",
+      "sites": [
+        "US"
+      ],
+      "campaign": "US Nursery SS26 Second Purchase B",
+      "offerTitle": "3 Shirts or Polos $149 + Free Shipping",
+      "offerDescription": "Enjoy 3 Shirts or Polos + Free Shipping",
+      "offerText": "3 SHIRTS $149",
+      "subText": "+ Free Shipping",
+      "bannerEnabled": true,
+      "bannerText": "3 Shirts or Polos $149 + Free Shipping - Exclusive Reward",
+      "terms": "Terms and Conditions: Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates.  Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Daniel",
+      "suppDates": "",
+      "startAt": "",
+      "endAt": "2026-07-27T23:59:59Z",
+      "customQualifiers": [
+        {
+          "attr": "dm_UOC3",
+          "operator": "equals",
+          "value": "XKY6"
+        }
+      ],
+      "customQualifierLogic": "and",
+      "customUocAttr": "dm_UOC3",
       "customUocMode": "attr",
       "srcType": "custom"
     }
@@ -729,30 +753,7 @@
       ]
     }
   ],
-  "DM_SOURCECODE3_OFFERS": [
-    {
-      "sites": [
-        "US"
-      ],
-      "campaign": "2nd Purchase Postcard (A Segment)",
-      "offerTitle": "3 Shirts $149 + 20% Off",
-      "offerDescription": "3 Shirts or Polos $149 + 20% Off everything else.",
-      "offerText": "3 SHIRTS $149",
-      "subText": "+ 20% off everything else",
-      "bannerEnabled": true,
-      "bannerText": "3 Shirts or Polos $149.",
-      "terms": "Terms and Conditions: Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com.",
-      "contact": "",
-      "suppDates": "",
-      "startAt": "2026-01-26T00:00:00Z",
-      "endAt": "2026-07-27T23:59:59Z",
-      "contains": [
-        "SEC",
-        "TESTSEG"
-      ],
-      "id": "CT-3X45LQ"
-    }
-  ],
+  "DM_SOURCECODE3_OFFERS": [],
   "SUPPRESSION": [
     {
       "sites": [
