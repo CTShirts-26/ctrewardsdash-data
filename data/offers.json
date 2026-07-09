@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-09T13:53:52.457Z",
+    "lastUpdated": "2026-07-09T14:06:11.659Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -10,7 +10,7 @@
       "sites": [
         "US"
       ],
-      "campaign": "NWLM A",
+      "campaign": "US Nursery NWLM A",
       "offerTitle": "$60 off - Exclusive Reward",
       "offerDescription": "$60 off no minimum spend.",
       "offerText": "$60 OFF",
@@ -31,40 +31,6 @@
       ],
       "customQualifierLogic": "and",
       "customUocAttr": "dm_UOC3",
-      "customUocMode": "attr",
-      "srcType": "custom"
-    },
-    {
-      "id": "CT-G4ZZ93",
-      "sites": [
-        "UK"
-      ],
-      "campaign": "UK Nursery 2 (A)",
-      "offerTitle": "Exclusive Reward",
-      "offerDescription": "",
-      "offerText": "3 Shirts or Polos for £99",
-      "subText": "",
-      "bannerEnabled": true,
-      "bannerText": "3 Shirts or Polos for £99",
-      "terms": "",
-      "contact": "",
-      "suppDates": "",
-      "startAt": "2026-06-05T00:00:00Z",
-      "endAt": "",
-      "customQualifiers": [
-        {
-          "attr": "in_programme",
-          "operator": "equals",
-          "value": "NURSERY_2"
-        },
-        {
-          "attr": "gi_SourceCode3",
-          "operator": "contains",
-          "value": "UKHSS26NBK1"
-        }
-      ],
-      "customQualifierLogic": "and",
-      "customUocAttr": "gi_UOC3",
       "customUocMode": "attr",
       "srcType": "custom"
     },
