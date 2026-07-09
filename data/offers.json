@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-09T14:23:00.965Z",
+    "lastUpdated": "2026-07-09T16:32:29.567Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -345,6 +345,35 @@
           "attr": "dm_UOC3",
           "operator": "equals",
           "value": "XKY6"
+        }
+      ],
+      "customQualifierLogic": "and",
+      "customUocAttr": "dm_UOC3",
+      "customUocMode": "attr",
+      "srcType": "custom"
+    },
+    {
+      "id": "CT-9WS4NR",
+      "sites": [
+        "US"
+      ],
+      "campaign": "NWLM A",
+      "offerTitle": "$60 Off - Exclusive Reward",
+      "offerDescription": "Enjoy $60 Off with no minimum spend",
+      "offerText": "$60 OFF",
+      "subText": "No minimum spend",
+      "bannerEnabled": true,
+      "bannerText": "$60 Off - Exclusive Reward",
+      "terms": "Terms and Conditions: Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates.  Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Daniel",
+      "suppDates": "",
+      "startAt": "",
+      "endAt": "2026-07-27T23:59:59Z",
+      "customQualifiers": [
+        {
+          "attr": "dm_UOC3",
+          "operator": "equals",
+          "value": "XJY7"
         }
       ],
       "customQualifierLogic": "and",
