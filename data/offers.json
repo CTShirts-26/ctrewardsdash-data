@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-22T08:55:12.775Z",
+    "lastUpdated": "2026-07-29T09:03:40.548Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -764,6 +764,27 @@
         "XHY3",
         "XHY4",
         "XHY6"
+      ]
+    },
+    {
+      "id": "CT-ERA37B",
+      "sites": [
+        "CA"
+      ],
+      "campaign": "AW26 CA WLM A",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy C$75 Off your next order with no minimum spend. ",
+      "offerText": "C$75 Off",
+      "subText": "No minimum spend",
+      "bannerEnabled": true,
+      "bannerText": "C$75 Off - Exclusive Reward",
+      "terms": "This offer ends at 23:59 (PST) on September 7th, 2026. Offer automatically applied. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates. Offer limited to up to 9 shirts. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Cale Shumway",
+      "suppDates": "",
+      "startAt": "2026-09-14T00:00:00Z",
+      "endAt": "2026-10-04T23:59:59Z",
+      "prefixes": [
+        "XFY7"
       ]
     }
   ],
