@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-29T09:12:28.741Z",
+    "lastUpdated": "2026-07-29T16:19:21.530Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -380,6 +380,42 @@
       "customUocAttr": "dm_UOC3",
       "customUocMode": "attr",
       "srcType": "custom"
+    },
+    {
+      "id": "CT-G6DDXQ",
+      "sites": [
+        "US"
+      ],
+      "campaign": "DM WORTH US AW26 Book 1 - 3 for $149 ",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy 3 Shirts or Polos for $149 on your next order",
+      "offerText": "3 Shirts or Polos for $149",
+      "subText": "Save up to $265",
+      "bannerEnabled": true,
+      "bannerText": "3 Shirts or Polos for $149 - Use code CT40",
+      "terms": "This offer ends at 11:59 PM (PST) on August 16, 2026. Quote offer code in store, over the phone or apply offer code in bag at charlestyrwhitt.com. Custom, clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates. Offer limited to up to 9 shirts. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Cale Shumway",
+      "suppDates": "",
+      "startAt": "2026-07-27T00:00:00Z",
+      "endAt": "2026-08-16T23:59:59Z",
+      "codeType": "static_single",
+      "staticCode": "CT40",
+      "customQualifiers": [
+        {
+          "attr": "dm_worth_segmentation",
+          "operator": "contains",
+          "value": "02 Nursery 7-12 Month Single Buyers"
+        },
+        {
+          "attr": "dm_worth_segmentation",
+          "operator": "contains",
+          "value": "01 Nursery 0-6 Month Single Buyers"
+        }
+      ],
+      "customQualifierLogic": "or",
+      "customUocAttr": "dm_UOC3",
+      "customUocMode": "attr",
+      "srcType": "custom"
     }
   ],
   "DIRECT_MAIL_REWARDS": {
@@ -669,27 +705,6 @@
       "endAt": "2026-07-07T23:59:59Z",
       "prefixes": [
         "RKP3"
-      ]
-    },
-    {
-      "id": "CT-26JHF2",
-      "sites": [
-        "FR"
-      ],
-      "campaign": "WLM Email Only Customers RKP4",
-      "offerTitle": "Exclusive Reward",
-      "offerDescription": "",
-      "offerText": "20 % de réduction ! ",
-      "subText": "Et la livraison est gratuite dès 200 € d’achat",
-      "bannerEnabled": true,
-      "bannerText": "20 % de réduction ! ",
-      "terms": "20 % de réduction ! Et la livraison est gratuite dès 200 € d’achat",
-      "contact": "Charlotte C",
-      "suppDates": "22/05/26 - 25/05/26",
-      "startAt": "2026-05-12T00:00:00Z",
-      "endAt": "2026-06-07T23:59:59Z",
-      "prefixes": [
-        "RKP4"
       ]
     },
     {
