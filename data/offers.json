@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-29T16:19:21.530Z",
+    "lastUpdated": "2026-07-29T16:30:54.246Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -403,12 +403,12 @@
       "customQualifiers": [
         {
           "attr": "dm_worth_segmentation",
-          "operator": "contains",
+          "operator": "equals",
           "value": "02 Nursery 7-12 Month Single Buyers"
         },
         {
           "attr": "dm_worth_segmentation",
-          "operator": "contains",
+          "operator": "equals",
           "value": "01 Nursery 0-6 Month Single Buyers"
         }
       ],
