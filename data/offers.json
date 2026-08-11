@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-11T11:07:45.306Z",
+    "lastUpdated": "2026-08-11T11:07:47.716Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -146,37 +146,6 @@
       "endAt": "",
       "codeType": "static_single",
       "staticCode": "FURSIE20",
-      "customQualifiers": [
-        {
-          "attr": "in_programme",
-          "operator": "equals",
-          "value": "NURSERY_3"
-        }
-      ],
-      "customQualifierLogic": "and",
-      "customUocAttr": "gi_UOC",
-      "customUocMode": "attr",
-      "srcType": "custom"
-    },
-    {
-      "id": "CT-Z7KWUA",
-      "sites": [
-        "FR"
-      ],
-      "campaign": "FR Nursery 3",
-      "offerTitle": "",
-      "offerDescription": "",
-      "offerText": "20 % de réduction",
-      "subText": "",
-      "bannerEnabled": true,
-      "bannerText": "20 % de réduction",
-      "terms": "",
-      "contact": "",
-      "suppDates": "",
-      "startAt": "2026-06-05T00:00:00Z",
-      "endAt": "",
-      "codeType": "static_single",
-      "staticCode": "VOICI20",
       "customQualifiers": [
         {
           "attr": "in_programme",
