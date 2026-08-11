@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-11T11:07:49.816Z",
+    "lastUpdated": "2026-08-11T11:07:52.009Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -89,37 +89,6 @@
           "attr": "in_programme",
           "operator": "equals",
           "value": "NURSERY_2"
-        }
-      ],
-      "customQualifierLogic": "and",
-      "customUocAttr": "gi_UOC",
-      "customUocMode": "attr",
-      "srcType": "custom"
-    },
-    {
-      "id": "CT-2FFTMN",
-      "sites": [
-        "UK"
-      ],
-      "campaign": "UK Nursery 3",
-      "offerTitle": "",
-      "offerDescription": "",
-      "offerText": "20% Off",
-      "subText": "",
-      "bannerEnabled": true,
-      "bannerText": "20% Off",
-      "terms": "",
-      "contact": "",
-      "suppDates": "",
-      "startAt": "2026-06-05T00:00:00Z",
-      "endAt": "",
-      "codeType": "static_single",
-      "staticCode": "SAVE20",
-      "customQualifiers": [
-        {
-          "attr": "in_programme",
-          "operator": "equals",
-          "value": "NURSERY_3"
         }
       ],
       "customQualifierLogic": "and",
