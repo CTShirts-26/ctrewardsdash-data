@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-11T11:07:54.632Z",
+    "lastUpdated": "2026-08-11T11:07:57.368Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -31,37 +31,6 @@
       ],
       "customQualifierLogic": "and",
       "customUocAttr": "dm_UOC3",
-      "customUocMode": "attr",
-      "srcType": "custom"
-    },
-    {
-      "id": "CT-JVUX8W",
-      "sites": [
-        "DE"
-      ],
-      "campaign": "DE Nursery 2",
-      "offerTitle": "",
-      "offerDescription": "",
-      "offerText": "3 hemden oder polos 99 €",
-      "subText": "",
-      "bannerEnabled": true,
-      "bannerText": "3 hemden oder polos 99 €",
-      "terms": "",
-      "contact": "",
-      "suppDates": "",
-      "startAt": "2026-06-05T00:00:00Z",
-      "endAt": "",
-      "codeType": "static_single",
-      "staticCode": "NEU2026",
-      "customQualifiers": [
-        {
-          "attr": "in_programme",
-          "operator": "equals",
-          "value": "NURSERY_2"
-        }
-      ],
-      "customQualifierLogic": "and",
-      "customUocAttr": "gi_UOC",
       "customUocMode": "attr",
       "srcType": "custom"
     },
