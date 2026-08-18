@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-18T12:27:15.562Z",
+    "lastUpdated": "2026-08-18T12:28:49.350Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -176,6 +176,37 @@
       "endAt": "2026-09-30T23:59:59Z",
       "codeType": "static_single",
       "staticCode": "SPECIAL50",
+      "customQualifiers": [
+        {
+          "attr": "in_programme",
+          "operator": "equals",
+          "value": "NURSERY_2"
+        }
+      ],
+      "customQualifierLogic": "and",
+      "customUocAttr": "gi_UOC",
+      "customUocMode": "attr",
+      "srcType": "custom"
+    },
+    {
+      "id": "CT-TRW5FS",
+      "sites": [
+        "FR"
+      ],
+      "campaign": "FR NURSERY",
+      "offerTitle": "",
+      "offerDescription": "",
+      "offerText": "3 chemises ou polos pour 99",
+      "subText": "",
+      "bannerEnabled": true,
+      "bannerText": "3 chemises ou polos pour 99",
+      "terms": "",
+      "contact": "",
+      "suppDates": "",
+      "startAt": "",
+      "endAt": "2026-09-30T23:59:59Z",
+      "codeType": "static_single",
+      "staticCode": "CHIC99",
       "customQualifiers": [
         {
           "attr": "in_programme",
