@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-18T12:26:59.764Z",
+    "lastUpdated": "2026-08-18T12:27:15.562Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -168,7 +168,7 @@
       "offerText": "50% Off Shirts and Polos",
       "subText": "",
       "bannerEnabled": true,
-      "bannerText": "",
+      "bannerText": "50% Off Shirts and Polos",
       "terms": "",
       "contact": "",
       "suppDates": "",
@@ -176,37 +176,6 @@
       "endAt": "2026-09-30T23:59:59Z",
       "codeType": "static_single",
       "staticCode": "SPECIAL50",
-      "customQualifiers": [
-        {
-          "attr": "in_programme",
-          "operator": "equals",
-          "value": "NURSERY_2"
-        }
-      ],
-      "customQualifierLogic": "and",
-      "customUocAttr": "gi_UOC",
-      "customUocMode": "attr",
-      "srcType": "custom"
-    },
-    {
-      "id": "CT-T3QTDB",
-      "sites": [
-        "DE"
-      ],
-      "campaign": "DE NURSERY",
-      "offerTitle": "Exclusive Reward",
-      "offerDescription": "",
-      "offerText": "3 Hemden oder Polo für 99 €",
-      "subText": "",
-      "bannerEnabled": true,
-      "bannerText": "3 Hemden oder Polos für 99 €",
-      "terms": "",
-      "contact": "",
-      "suppDates": "",
-      "startAt": "",
-      "endAt": "2026-09-30T23:59:59Z",
-      "codeType": "static_single",
-      "staticCode": "STYLE3",
       "customQualifiers": [
         {
           "attr": "in_programme",
