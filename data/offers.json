@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-18T12:28:49.350Z",
+    "lastUpdated": "2026-08-18T12:29:50.363Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -212,6 +212,37 @@
           "attr": "in_programme",
           "operator": "equals",
           "value": "NURSERY_2"
+        }
+      ],
+      "customQualifierLogic": "and",
+      "customUocAttr": "gi_UOC",
+      "customUocMode": "attr",
+      "srcType": "custom"
+    },
+    {
+      "id": "CT-QUS5AG",
+      "sites": [
+        "UK"
+      ],
+      "campaign": "UK NURSERY 3",
+      "offerTitle": "",
+      "offerDescription": "",
+      "offerText": "£30 off when you spend £100",
+      "subText": "",
+      "bannerEnabled": true,
+      "bannerText": "£30 off when you spend £100",
+      "terms": "",
+      "contact": "",
+      "suppDates": "",
+      "startAt": "",
+      "endAt": "2026-09-27T23:59:59Z",
+      "codeType": "static_single",
+      "staticCode": "STYLE3",
+      "customQualifiers": [
+        {
+          "attr": "in_programme",
+          "operator": "equals",
+          "value": "NURSERY_3"
         }
       ],
       "customQualifierLogic": "and",
