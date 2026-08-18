@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-18T12:29:50.363Z",
+    "lastUpdated": "2026-08-18T12:30:58.952Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -238,6 +238,37 @@
       "endAt": "2026-09-27T23:59:59Z",
       "codeType": "static_single",
       "staticCode": "STYLE3",
+      "customQualifiers": [
+        {
+          "attr": "in_programme",
+          "operator": "equals",
+          "value": "NURSERY_3"
+        }
+      ],
+      "customQualifierLogic": "and",
+      "customUocAttr": "gi_UOC",
+      "customUocMode": "attr",
+      "srcType": "custom"
+    },
+    {
+      "id": "CT-V52DP4",
+      "sites": [
+        "DE"
+      ],
+      "campaign": "DE NURSERY 3",
+      "offerTitle": "",
+      "offerDescription": "",
+      "offerText": "30 € Rabatt ab einem Einkaufswert von 150",
+      "subText": "",
+      "bannerEnabled": true,
+      "bannerText": "30 € Rabatt ab einem Einkaufswert von 150",
+      "terms": "",
+      "contact": "",
+      "suppDates": "",
+      "startAt": "",
+      "endAt": "2026-09-30T23:59:59Z",
+      "codeType": "static_single",
+      "staticCode": "STIL30",
       "customQualifiers": [
         {
           "attr": "in_programme",
