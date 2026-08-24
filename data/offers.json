@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-18T12:32:05.221Z",
+    "lastUpdated": "2026-08-24T12:51:02.251Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -502,7 +502,9 @@
     },
     "XFY6": {
       "id": "CT-69V4U6",
-      "sites": null,
+      "sites": [
+        "US"
+      ],
       "campaign": "AW26 US WLM R",
       "offerTitle": "Exclusive Reward",
       "offerDescription": "Enjoy 3 Shirts or Polos for $119 on your next order.",
