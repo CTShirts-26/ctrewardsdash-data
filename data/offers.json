@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-24T16:16:34.650Z",
+    "lastUpdated": "2026-10-05T08:52:45.670Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -382,6 +382,41 @@
         }
       ],
       "customQualifierLogic": "or",
+      "customUocAttr": "gi_UOC",
+      "customUocMode": "attr",
+      "srcType": "custom"
+    },
+    {
+      "id": "CT-ELNRXE",
+      "sites": [
+        "UK"
+      ],
+      "campaign": "Test for Holdout",
+      "offerTitle": "test_for_holdout",
+      "offerDescription": "",
+      "offerText": "test_for_holdout",
+      "subText": "test_for_holdout",
+      "bannerEnabled": true,
+      "bannerText": "test_for_holdout",
+      "terms": "test_for_holdout",
+      "contact": "",
+      "suppDates": "",
+      "startAt": "2026-10-05T00:00:00Z",
+      "endAt": "2026-10-10T23:59:59Z",
+      "translations": {
+        "de": {
+          "offerText": "test_for_holdout"
+        },
+        "fr": {}
+      },
+      "customQualifiers": [
+        {
+          "attr": "gi_EmailSegmentation",
+          "operator": "equals",
+          "value": "test_for_holdout"
+        }
+      ],
+      "customQualifierLogic": "and",
       "customUocAttr": "gi_UOC",
       "customUocMode": "attr",
       "srcType": "custom"
