@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-05T18:04:26.262Z",
+    "lastUpdated": "2026-10-05T18:06:23.947Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -500,7 +500,7 @@
       "campaign": "Test for NL",
       "offerTitle": "",
       "offerDescription": "",
-      "offerText": "test_for_holdout",
+      "offerText": "test_for_holdout_NL",
       "subText": "test_for_holdout",
       "bannerEnabled": true,
       "bannerText": "",
