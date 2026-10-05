@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-05T17:52:58.928Z",
+    "lastUpdated": "2026-10-05T17:53:46.346Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -451,6 +451,35 @@
         },
         "nl": {}
       },
+      "customQualifiers": [
+        {
+          "attr": "gi_EmailSegmentation",
+          "operator": "equals",
+          "value": "test_for_holdout"
+        }
+      ],
+      "customQualifierLogic": "and",
+      "customUocAttr": "gi_UOC",
+      "customUocMode": "attr",
+      "srcType": "custom"
+    },
+    {
+      "id": "CT-A8GR36",
+      "sites": [
+        "XBR"
+      ],
+      "campaign": "Test for XBR",
+      "offerTitle": "test_for_holdout",
+      "offerDescription": "",
+      "offerText": "test_for_holdout",
+      "subText": "test_for_holdout",
+      "bannerEnabled": true,
+      "bannerText": "test_for_holdout",
+      "terms": "",
+      "contact": "",
+      "suppDates": "",
+      "startAt": "2026-10-05T00:00:00Z",
+      "endAt": "2026-10-08T23:59:59Z",
       "customQualifiers": [
         {
           "attr": "gi_EmailSegmentation",
