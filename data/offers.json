@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-05T08:54:04.039Z",
+    "lastUpdated": "2026-10-05T17:52:58.928Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -408,6 +408,48 @@
           "offerText": "test_for_holdout"
         },
         "fr": {}
+      },
+      "customQualifiers": [
+        {
+          "attr": "gi_EmailSegmentation",
+          "operator": "equals",
+          "value": "test_for_holdout"
+        }
+      ],
+      "customQualifierLogic": "and",
+      "customUocAttr": "gi_UOC",
+      "customUocMode": "attr",
+      "srcType": "custom"
+    },
+    {
+      "id": "CT-F2GD28",
+      "sites": [
+        "EU"
+      ],
+      "campaign": "Test for EU",
+      "offerTitle": "test_for_holdout",
+      "offerDescription": "",
+      "offerText": "test_for_holdout",
+      "subText": "test_for_holdout",
+      "bannerEnabled": true,
+      "bannerText": "test_for_holdout_eu",
+      "terms": "",
+      "contact": "",
+      "suppDates": "",
+      "startAt": "2026-10-05T00:00:00Z",
+      "endAt": "2026-10-07T23:59:59Z",
+      "translations": {
+        "de": {},
+        "fr": {},
+        "es": {
+          "offerText": "test_for_holdout_es",
+          "subText": "test_for_holdout_es"
+        },
+        "it": {
+          "offerText": "test_for_holdout_it",
+          "subText": "test_for_holdout_it"
+        },
+        "nl": {}
       },
       "customQualifiers": [
         {
