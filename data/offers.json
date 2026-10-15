@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-15T12:38:18.911Z",
+    "lastUpdated": "2026-10-15T13:46:02.197Z",
     "updatedBy": "CT Rewards Studio",
-    "version": 2
+    "version": 3
   },
   "OFFER_CONFIGS": [
     {
@@ -608,6 +608,90 @@
       "customUocAttr": "gi_UOC",
       "customUocMode": "attr",
       "srcType": "custom"
+    },
+    {
+      "id": "CT-PFKNAA",
+      "sites": [
+        "UK",
+        "DE",
+        "FR"
+      ],
+      "campaign": "UK/DE/FR AW26 RCTS WLM (PRINT + EMAIL)",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "25% OFF Plus, free delivery when you spend £100 ",
+      "offerText": "Exclusively For You: 25% OFF",
+      "subText": "Plus, free delivery when you spend £100",
+      "bannerEnabled": true,
+      "bannerText": "Exclusively for you: 25% OFF",
+      "terms": "Terms & Conditions: Offer ends at 11:59pm on 27th September 2026. Promotion cannot be used in conjunction with other vouchers, special promotions or introductory pricing offers. Code redeemable on one transaction only. Offer excludes clearance, sale, express shipping costs, gift vouchers, gift boxes and alterations. Free delivery applies to standard delivery with a minimum spend of £100. Offer cannot be exchanged for cash. We reserve the right to withdraw, amend or extend this offer at any time without prior notice. For standard terms and conditions, see our website.\n",
+      "contact": "Selina ",
+      "suppDates": "17/09 - 20/09",
+      "startAt": "2026-09-03T00:00:00Z",
+      "endAt": "2026-09-27T23:59:59Z",
+      "translations": {
+        "de": {
+          "offerText": "Exklusiv für Sie: 30 % Rabatt",
+          "subText": "Plus Gratis-Lieferung ab einem Einkauf von 150 €",
+          "offerTitle": "Exklusiv für Sie",
+          "offerDescription": "30 % Rabatt Plus Gratis-Lieferung ab einem Einkauf von 150 €",
+          "bannerText": "Exklusiv für Sie: 30 % Rabatt",
+          "terms": "Angebotsbedingungen: Dieses Angebot ist nicht in Verbindung mit anderen Gutscheinen, Sonderangeboten oder Einführungspreisen gültig und endet am 27. September 2026 um 23:59 Uhr. Der Code kann nur für eine Transaktion verwendet werden. Sale, Express-Versandkosten, Geschenkgutscheine, Geschenkverpackungen und Änderungsarbeiten sind von diesem Angebot ausgeschlossen. Gutscheine können nicht gegen Bargeld umgetauscht werden. Wir behalten uns das Recht vor, dieses Angebot jederzeit und ohne vorherige Ankündigung zurückzuziehen, zu ändern oder zu erweitern. Die kostenlose Lieferung gilt ausschließlich für den Standardversand mit einem Mindestumsatz von 150 €. Die Allgemeinen Geschäftsbedingungen finden Sie auf charlestyrwhitt.com/de/agbs.html."
+        },
+        "fr": {
+          "offerText": "Rien que pour vous : 25 % de réduction",
+          "subText": "Et la livraison gratuite dès 100 € d’achat",
+          "offerTitle": "Rien que pour vous",
+          "offerDescription": "25 % de réduction et la livraison gratuite dès 100 € d’achat",
+          "bannerText": "Rien que pour vous : 25 % de réduction",
+          "terms": "Conditions générales : Offre valable jusqu'au 27 septembre 2026 à 23h59. Cette promotion n'est pas cumulable avec d'autres bons d'achat, promotions spéciales ou offres à prix de lancement. Elle est réservée au destinataire de l'e-mail. Le code ne peut être utilisé que pour une seule transaction. Saisissez votre code promo exclusif dans le panier d'achat pour bénéficier de l'offre. Cette offre ne s'applique pas au déstockage, aux articles en solde, aux frais d'expédition, aux bons d'achat, aux coffrets cadeaux et aux retouches. La livraison gratuite s'applique à la livraison standard pour un achat minimum de 100 €. Elle ne peut être échangée contre de l'argent. Nous nous réservons le droit de retirer, de modifier ou de prolonger cette offre à tout moment et sans préavis. Pour les conditions générales standard, veuillez consulter notre site web."
+        }
+      },
+      "customQualifiers": [
+        {
+          "attr": "gi_UOC",
+          "operator": "starts_with",
+          "value": "CRW2"
+        },
+        {
+          "attr": "gi_UOC",
+          "operator": "starts_with",
+          "value": "CRW3"
+        },
+        {
+          "attr": "gi_UOC",
+          "operator": "starts_with",
+          "value": "CRW4"
+        },
+        {
+          "attr": "gi_UOC",
+          "operator": "starts_with",
+          "value": "CRL2"
+        },
+        {
+          "attr": "gi_UOC",
+          "operator": "starts_with",
+          "value": "CRL3"
+        },
+        {
+          "attr": "gi_UOC",
+          "operator": "starts_with",
+          "value": "CRL4"
+        },
+        {
+          "attr": "gi_UOC",
+          "operator": "starts_with",
+          "value": "CRT2"
+        },
+        {
+          "attr": "gi_UOC",
+          "operator": "starts_with",
+          "value": "CRT3"
+        }
+      ],
+      "customQualifierLogic": "or",
+      "customUocAttr": "gi_UOC",
+      "customUocMode": "attr",
+      "srcType": "custom"
     }
   ],
   "DIRECT_MAIL_REWARDS": {
@@ -1078,9 +1162,118 @@
         "FYT4",
         "FYC3"
       ]
+    },
+    {
+      "id": "CT-ERA37B",
+      "sites": [
+        "CA"
+      ],
+      "campaign": "AW26 CA WLM A",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy C$75 Off your next order with no minimum spend. ",
+      "offerText": "C$75 Off",
+      "subText": "No minimum spend",
+      "bannerEnabled": true,
+      "bannerText": "C$75 Off - Exclusive Reward",
+      "terms": "This offer ends at 23:59 (PST) on September 7th, 2026. Offer automatically applied. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates. Offer limited to up to 9 shirts. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Cale Shumway",
+      "suppDates": "",
+      "startAt": "2026-09-14T00:00:00Z",
+      "endAt": "2026-10-04T23:59:59Z",
+      "prefixes": [
+        "XFY7"
+      ]
+    },
+    {
+      "id": "CT-5DFQBK",
+      "sites": [
+        "CA"
+      ],
+      "campaign": "AW26 CA WLM B",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy 30% Off your next order.",
+      "offerText": "30% Off",
+      "subText": "Full-Price Items Only",
+      "bannerEnabled": true,
+      "bannerText": "30% Off - Exclusive Reward",
+      "terms": "This offer ends at 23:59 (PST) on October 4th, 2026. Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates.  Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Cale Shumway",
+      "suppDates": "",
+      "startAt": "2026-09-14T00:00:00Z",
+      "endAt": "2026-10-04T23:59:59Z",
+      "translations": {
+        "de": {},
+        "fr": {
+          "offerText": "30% de réduction",
+          "subText": "Articles à prix plein uniquement",
+          "offerTitle": "Offre exclusive",
+          "offerDescription": "30% de réduction",
+          "bannerText": "30% de réduction - Offre exclusive",
+          "terms": "Offre valable jusqu'au 4 octobre, 2026 à 23:59 (PST). Saisissez votre code promo exclusif dans le panier d'achat en ligne pour bénéficier de l'offre. Cette offre ne s'applique pas aux articles en solde/déstockage, aux frais d'expédition, aux bons d'achat, aux coffrets cadeaux et aux retouches. Cette promotion n'est pas cumulable avec d'autres bons d'achat, promotions spéciales ou offres à prix de lancement. Elle ne peut être échangée contre de l'argent. Cette offre ne peut être utilisée qu'une seule fois lors d'une même transaction. Nous nous réservons le droit de retirer, de modifier ou de prolonger cette offre à tout moment et sans préavis. Pour les conditions générales standard, veuillez consulter notre site web."
+        }
+      },
+      "prefixes": [
+        "XFYA"
+      ]
+    },
+    {
+      "id": "CT-S6ELX9",
+      "sites": [
+        "UK"
+      ],
+      "campaign": "UK AW26 HF WLM (LPD ONLY)",
+      "offerTitle": "Exclusive reward",
+      "offerDescription": "25% OFF ",
+      "offerText": "Exclusively for you: 25% OFF",
+      "subText": "Full-price items only",
+      "bannerEnabled": true,
+      "bannerText": "Exclusively for you: 25% OFF",
+      "terms": "Terms & Conditions: Offer ends at 11:59pm on 27th September 2026. Promotion cannot be used in conjunction with other vouchers, special promotions or introductory pricing offers. Code redeemable on one transaction only. Offer excludes clearance, sale, express shipping costs, gift vouchers, gift boxes and alterations. Offer cannot be exchanged for cash. We reserve the right to withdraw, amend or extend this offer at any time without prior notice. For standard terms and conditions, see our website.",
+      "contact": "Charlotte Court",
+      "suppDates": "17-09 - 22/09 ",
+      "startAt": "2026-09-03T00:00:00Z",
+      "endAt": "2026-09-27T23:59:59Z",
+      "prefixes": [
+        "CTL3"
+      ]
     }
   ],
-  "GI_SOURCECODE3_OFFERS": [],
+  "GI_SOURCECODE3_OFFERS": [
+    {
+      "id": "CT-BQGDQZ",
+      "sites": [
+        "UK",
+        "DE"
+      ],
+      "campaign": "SS26 Nursery Welcome Letter - Summer - 25 off",
+      "offerTitle": "Exclusively for you",
+      "offerDescription": "Enjoy £25 off your next purchase with us.",
+      "offerText": "£25 Off",
+      "subText": "No Minimum Spend, see full T&Cs for more details.",
+      "bannerEnabled": true,
+      "bannerText": "£25 Off",
+      "terms": "Terms & Conditions: Offer end date is shown on the mailing. This promotion cannot be used in conjunction with any other vouchers, special promotions or introductory pricing offers. This offer is intended for the recipient of the mailing. Use code in shopping bag to receive £25 off your purchase with no minimum spend. The offer code can only be used once on your next purchase. This offer excludes sale items, shipping costs, gift vouchers, gift boxes and alterations. Vouchers cannot be exchanged for cash. We reserve the right to withdraw, amend or extend this offer at any time without prior notice. Full terms and conditions are available at charlestyrwhitt.com.",
+      "contact": "Sarah",
+      "suppDates": "",
+      "startAt": "",
+      "endAt": "2026-08-09T23:59:59Z",
+      "translations": {
+        "de": {
+          "offerText": "25 € Rabatt",
+          "subText": "Kein Mindestbestellwert; weitere Informationen finden Sie in den vollständigen AGB.",
+          "offerTitle": "Exklusiv für sie",
+          "offerDescription": "Sichern Sie sich 25 € Rabatt auf Ihren nächsten Einkauf bei uns.",
+          "bannerText": "25 € Rabatt",
+          "terms": "Angebotsbedingungen: Diese Aktion richtet sich an den Empfänger der Sendung und kann nicht in Verbindung mit anderen Gutscheinen, Sonderaktionen oder Einführungsangeboten genutzt werden. Verwenden Sie den Code in Ihrem Warenkorb, um 25 € Rabatt auf Ihren Einkauf zu erhalten, ohne Mindestbestellwert. Der Angebotscode kann nur einmal bei Ihrem nächsten Einkauf verwendet werden. Ausgenommen von diesem Angebot sind reduzierte Artikel, Versandkosten, Geschenkgutscheine, Geschenkboxen und Änderungen. Gutscheine können nicht gegen Bargeld eingetauscht werden. Wir behalten uns das Recht vor, dieses Angebot jederzeit ohne vorherige Ankündigung zurückzuziehen, zu ändern oder zu verlängern. Die vollständigen Allgemeinen Geschäftsbedingungen finden Sie unter charlestyrwhitt.com."
+        },
+        "fr": {}
+      },
+      "contains": [
+        "UKHSS26NLM2",
+        "GEHSS26NLM2"
+      ]
+    }
+  ],
   "DM_SOURCECODE3_OFFERS": [],
   "SUPPRESSION": [
     {
