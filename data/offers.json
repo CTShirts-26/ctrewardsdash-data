@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-16T13:28:40.925Z",
+    "lastUpdated": "2026-10-16T13:36:41.622Z",
     "updatedBy": "CT Rewards Studio",
-    "version": 4
+    "version": 5
   },
   "OFFER_CONFIGS": [
     {
@@ -1284,6 +1284,28 @@
         "AW26_RCTS_HVM",
         "AW26_GE_RCTS_HVM",
         "AW26_FR_RCTS_HVM"
+      ]
+    },
+    {
+      "id": "CT-69JPWM",
+      "sites": [
+        "UK"
+      ],
+      "campaign": "AW26_RCTS_HVM: UK FREE SHIRT WITH PURCHASE",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Get a FREE Shirt with ANY purchase ",
+      "offerText": "Free Shirt with ANY purchase ",
+      "subText": "No minimum spend | Full-priced items only ",
+      "bannerEnabled": true,
+      "bannerText": "Exclusively for you: Free Shirt with any purchase ",
+      "terms": "Terms & Conditions: Offer ends at 11:59pm on 15th November 2026. Offer code is single use only.\nExcludes Charles Tyrwhitt Custom, Luxury Shirts, Evening shirts, Overshirts, multibuy offers, shipping costs, gift vouchers, gift boxes and alterations. The offer is redeemable in UK Charles Tyrwhitt standalone stores only and is not valid in concession locations. Visit charlestyrwhitt.com/uk/terms-and-conditions.html for full T&Cs.",
+      "contact": "Selina ",
+      "suppDates": "",
+      "startAt": "2026-10-21T00:00:00Z",
+      "endAt": "2026-11-15T23:59:59Z",
+      "prefixes": [
+        "HVU3",
+        "AW26_RCTS_HVMT"
       ]
     }
   ],
