@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-16T13:36:41.622Z",
+    "lastUpdated": "2026-10-16T13:47:55.789Z",
     "updatedBy": "CT Rewards Studio",
-    "version": 5
+    "version": 6
   },
   "OFFER_CONFIGS": [
     {
@@ -1306,6 +1306,45 @@
       "prefixes": [
         "HVU3",
         "AW26_RCTS_HVMT"
+      ]
+    },
+    {
+      "id": "CT-ESESYU",
+      "sites": [
+        "UK",
+        "DE"
+      ],
+      "campaign": "AW26_RCTS_HVM: UK & GE 50% off Shirts & Polos",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy 50% off Shirts or Polos - you lucky thing.",
+      "offerText": "50% OFF Shirts or Polos",
+      "subText": "No minimum spend | Full-priced items only",
+      "bannerEnabled": true,
+      "bannerText": "Exclusively for you: 50% off Shirts or Polos",
+      "terms": "Terms & Conditions: Offer ends at 11:59pm on 15th November 2026. Offer code is single use only.\nExcludes Charles Tyrwhitt Custom, Luxury Shirts, Evening shirts, Overshirts, clearance,\nsale items, multibuy offers, shipping costs, gift vouchers, gift boxes and alterations.\nVisit charlestyrwhitt.com/uk/terms-and-conditions.html for full T&Cs.",
+      "contact": "Selina ",
+      "suppDates": "",
+      "startAt": "2026-10-21T00:00:00Z",
+      "endAt": "2026-11-15T23:59:59Z",
+      "translations": {
+        "de": {
+          "offerText": "50 % RABATT HEMDEN ODER POLOS",
+          "subText": "Kein Mindestbetrag | Nur auf Artikel zum regulären Preis",
+          "offerTitle": "Exklusiv für Sie",
+          "offerDescription": "50 % RABATT HEMDEN ODER POLOS - Kein Mindestbestellwert",
+          "bannerText": "Genieße 50% RABATT auf HEMDEN oder POLOS bei deiner nächsten Bestellung, kein Mindestbestellwert erforderlich.",
+          "terms": "Angebotsbedingungen: Gültig bis 15. November 2026, 23:59 Uhr. Nur einmalig einlösbar.\nEs gelten Ausnahmen. Vollständige AGB unter charlestyrwhitt.com/de/agbs.html."
+        },
+        "fr": {},
+        "es": {},
+        "it": {},
+        "nl": {}
+      },
+      "prefixes": [
+        "HVG3",
+        "HVU4",
+        "AW26_RCTS_HVMT2",
+        "AW26_GE_RCTS_HVMT"
       ]
     }
   ],
