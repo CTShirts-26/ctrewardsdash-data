@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-15T13:46:02.197Z",
+    "lastUpdated": "2026-10-16T13:28:40.925Z",
     "updatedBy": "CT Rewards Studio",
-    "version": 3
+    "version": 4
   },
   "OFFER_CONFIGS": [
     {
@@ -1235,6 +1235,55 @@
       "endAt": "2026-09-27T23:59:59Z",
       "prefixes": [
         "CTL3"
+      ]
+    },
+    {
+      "id": "CT-RVN4J3",
+      "sites": [
+        "UK",
+        "DE",
+        "FR"
+      ],
+      "campaign": "AW26_RCTS_HVM: UK, DE, FR 25 OFF NO MIN SPEND",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy £25 off your next order - you lucky thing.",
+      "offerText": "£25 OFF - EXCLUSIVELY FOR YOU",
+      "subText": "No minimum spend | Full-price items only ",
+      "bannerEnabled": true,
+      "bannerText": "Exclusively for you: £25 OFF",
+      "terms": "Terms & Conditions: Offer ends at 11:59pm on 15th November 2026. This promotion cannot be used in conjunction with any other vouchers, special promotions or introductory pricing offers. This offer is intended for the recipient of the mailing. Use code in shopping bag to receive £25 off your purchase. The offer code can only be used once on your next purchase. This offer excludes sale items, shipping costs, gift vouchers, gift boxes and alterations. Vouchers cannot be exchanged for cash. We reserve the right to withdraw, amend or extend this offer at any time without prior notice. Full terms and conditions are available at charlestyrwhitt.com.\n",
+      "contact": "Selina ",
+      "suppDates": "",
+      "startAt": "2026-10-21T00:00:00Z",
+      "endAt": "2026-11-15T23:59:59Z",
+      "translations": {
+        "de": {
+          "offerText": "Exklusiv für Sie: 25 € Rabatt",
+          "subText": "Kein Mindestumsatz | Nur auf Artikel zum regulären Preis",
+          "offerTitle": "Exklusiv für Sie",
+          "offerDescription": "Genießen Sie 25 € Rabatt auf Ihre nächste Bestellung, ohne Mindestbestellwert.",
+          "bannerText": "Exklusiv für Sie: 25 € Rabatt",
+          "terms": "Angebot gültig bis zum 15. November 2026, 23:59 Uhr. Diese Aktion ist nicht kombinierbar mit anderen Gutscheinen, Sonderaktionen oder Einführungspreisangeboten. Das Angebot ist ausschließlich für den Empfänger dieses Mailings bestimmt. Geben Sie den Gutscheincode im Warenkorb ein, um 25 € Rabatt auf Ihren Einkauf zu erhalten. Der Gutscheincode kann nur einmal für Ihren nächsten Einkauf eingelöst werden. Von diesem Angebot ausgeschlossen sind Sale-Artikel, Versandkosten, Gutscheine, Geschenkboxen und Änderungen. Dieses Angebot kann nicht gegen Bargeld eingetauscht werden. Wir behalten uns das Recht vor, dieses Angebot jederzeit und ohne vorherige Ankündigung zurückzuziehen, zu ändern oder zu verlängern. Die vollständigen Allgemeinen Geschäftsbedingungen"
+        },
+        "fr": {
+          "offerText": "Exclusivement pour vous : 25 € de réduction",
+          "subText": "Sans minimum d'achat | Articles à prix plein tarif uniquement",
+          "offerTitle": "Offre exclusive",
+          "offerDescription": "Profitez de 25 € de réduction sur votre prochaine commande, sans minimum d'achat.",
+          "bannerText": "Exclusivement pour vous : 25 € de réduction",
+          "terms": "Cette promotion ne peut être utilisée en conjonction avec d'autres bons de réduction, promotions spéciales ou offres de lancement. Saisissez votre code promotionnel exclusif dans votre panier pour bénéficier de 25 € de réduction sur votre prochaine commande, sans minimum d'achat. Cette offre exclut les articles en liquidation, les articles soldés, les frais d'expédition, les chèques cadeaux, les coffrets cadeaux et les retouches. Cette offre ne peut être échangée contre de l'argent. Nous nous réservons le droit de retirer, de modifier ou de prolonger cette offre à tout moment et sans préavis. Pour connaître les conditions générales standard, veuillez consulter notre site Web."
+        },
+        "es": {},
+        "it": {},
+        "nl": {}
+      },
+      "prefixes": [
+        "HVU2",
+        "HVG2",
+        "HVF2",
+        "AW26_RCTS_HVM",
+        "AW26_GE_RCTS_HVM",
+        "AW26_FR_RCTS_HVM"
       ]
     }
   ],
