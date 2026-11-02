@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-16T13:47:55.789Z",
+    "lastUpdated": "2026-11-02T17:38:00.254Z",
     "updatedBy": "CT Rewards Studio",
-    "version": 6
+    "version": 7
   },
   "OFFER_CONFIGS": [
     {
@@ -859,6 +859,63 @@
       "codeType": "static_single",
       "staticCode": "CT40",
       "dmVersion": "dm"
+    },
+    "XFX2": {
+      "id": "CT-FK8CC6",
+      "sites": [
+        "US"
+      ],
+      "campaign": "AW26 US BCMA",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy $75 Off your next order with no minimum spend. ",
+      "offerText": "$75 Off",
+      "subText": "No minimum spend",
+      "bannerEnabled": true,
+      "bannerText": "$75 Off - Exclusive Reward",
+      "terms": "This offer ends at 11:59PM (PST) on November 15th, 2026. Quote offer code in store, over the phone or apply offer code in bag at charlestyrwhitt.com. Custom, clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates. Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Cale Shumway",
+      "suppDates": "",
+      "startAt": "2026-10-26T00:00:00Z",
+      "endAt": "2026-11-15T23:59:59Z",
+      "dmVersion": "dm"
+    },
+    "XFX3": {
+      "id": "CT-VPDBE9",
+      "sites": [
+        "US"
+      ],
+      "campaign": "AW26 US BCMB",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy $75 Off any order over $150",
+      "offerText": "$75 Off $150+",
+      "subText": "$150 minumum spend",
+      "bannerEnabled": true,
+      "bannerText": "$75 Off $150+ - Exclusive Reward",
+      "terms": "This offer ends at 11:59PM (PST) on November 15th, 2026. Minimum spend of $150 required to unlock $75 Off. Quote offer code in store, over the phone or apply offer code in bag at charlestyrwhitt.com. Custom, clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates. Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Cale Shumway",
+      "suppDates": "",
+      "startAt": "2026-10-26T00:00:00Z",
+      "endAt": "2026-11-15T23:59:59Z",
+      "dmVersion": "dm"
+    },
+    "XFX6": {
+      "id": "CT-VQ6QX3",
+      "sites": [
+        "US"
+      ],
+      "campaign": "AW26 US BCMR",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy 3 Shirts or Polos for $119",
+      "offerText": "3 Shirts or Polos $119",
+      "subText": "Full-price items only",
+      "bannerEnabled": true,
+      "bannerText": "3 Shirts or Polos $119 - Exclusive Reward",
+      "terms": "This offer ends at 11:59PM (PST) on November 15th, 2026. Quote offer code in store, over the phone or apply offer code in bag at charlestyrwhitt.com. Liberty Fabric, Custom, Luxury 140s Twill, clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates. Offer limited to up to 9 shirts. Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Cale Shumway",
+      "suppDates": "",
+      "startAt": "2026-10-26T00:00:00Z",
+      "endAt": "2026-11-15T23:59:59Z",
+      "dmVersion": "dm"
     }
   },
   "DIRECT_MAIL_REWARDS_2": {
@@ -1345,6 +1402,120 @@
         "HVU4",
         "AW26_RCTS_HVMT2",
         "AW26_GE_RCTS_HVMT"
+      ]
+    },
+    {
+      "id": "CT-X4B6PA",
+      "sites": [
+        "AU"
+      ],
+      "campaign": "AW26 AUS BCMA",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy $50 Off your next order with no minimum spend. ",
+      "offerText": "$50 Off",
+      "subText": "No minimum spend",
+      "bannerEnabled": true,
+      "bannerText": "$50 Off - Exclusive Reward",
+      "terms": "This offer ends at 23:59 (AEST) on November 15th, 2026. Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates.  Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Cale Shumway",
+      "suppDates": "",
+      "startAt": "2026-10-26T00:00:00Z",
+      "endAt": "2026-11-15T23:59:59Z",
+      "prefixes": [
+        "XHY7"
+      ]
+    },
+    {
+      "id": "CT-9UZWS3",
+      "sites": [
+        "AU"
+      ],
+      "campaign": "AW26 AUS BCMN",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy $50 Off your next order with no minimum spend. ",
+      "offerText": "$50 Off",
+      "subText": "No minimum spend",
+      "bannerEnabled": true,
+      "bannerText": "$50 Off - Exclusive Reward",
+      "terms": "This offer ends at 23:59 (AEST) on November 15th, 2026. Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates.  Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Cale Shumway",
+      "suppDates": "",
+      "startAt": "2026-10-26T00:00:00Z",
+      "endAt": "2026-11-15T23:59:59Z",
+      "prefixes": [
+        "XHX2"
+      ]
+    },
+    {
+      "id": "CT-5DCCKN",
+      "sites": [
+        "AU"
+      ],
+      "campaign": "AW25 AUS BCMR",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy Shirts or Polos for $49.95 plus Free Shipping on your next order",
+      "offerText": "Shirts or Polos $49.95 + Free Shipping",
+      "subText": "Full-price items only",
+      "bannerEnabled": true,
+      "bannerText": "Shirts or Polos $49.95 + Free Shipping - Exclusive Reward",
+      "terms": "This offer ends at 23:59 (AEST) on November 15, 2026. Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Free standard shipping applies to AUS addresses only. Liberty Fabric, Luxury 140s Twill, clearance/sale items, gift cards, gift boxes and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates. Offer limited to up to 9 shirts.  Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Cale Shumway",
+      "suppDates": "",
+      "startAt": "2026-10-26T00:00:00Z",
+      "endAt": "2026-11-15T23:59:59Z",
+      "prefixes": [
+        "XHYC"
+      ]
+    },
+    {
+      "id": "CT-Q2KK2T",
+      "sites": [
+        "CA"
+      ],
+      "campaign": "AW26 CA BCMA",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy C$75 Off your next order with no minimum spend. ",
+      "offerText": "C$75 Off",
+      "subText": "No minimum spend",
+      "bannerEnabled": true,
+      "bannerText": "C$75 Off - Exclusive Reward",
+      "terms": "This offer ends at 23:59 (PST) on November 15th, 2026. Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates.  Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Cale Shumway",
+      "suppDates": "",
+      "startAt": "2026-10-26T00:00:00Z",
+      "endAt": "2026-11-15T23:59:59Z",
+      "prefixes": [
+        "XFX7"
+      ]
+    },
+    {
+      "id": "CT-RFUVZM",
+      "sites": [
+        "CA"
+      ],
+      "campaign": "AW26 CA BCMF (FRENCH)",
+      "offerTitle": "Offre exclusive",
+      "offerDescription": "Profitez de 75 $ CA de rabais sur votre prochaine commande, sans montant minimum d’achat.",
+      "offerText": "C$75 Off",
+      "subText": "Sans minimum d’achat",
+      "bannerEnabled": true,
+      "bannerText": "C$75 Off - Offre exclusive",
+      "terms": "This offer ends at 23:59 (PST) on November 15, 2026. Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates.  Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Cale Shumway",
+      "suppDates": "",
+      "startAt": "2026-10-26T00:00:00Z",
+      "endAt": "2026-11-15T23:59:59Z",
+      "translations": {
+        "de": {},
+        "fr": {
+          "offerText": "75 $ CA DE RÉDUCTION",
+          "subText": "Sans minimum d’achat",
+          "offerTitle": "Offre exclusive",
+          "offerDescription": "Profitez de 75 $ CA de rabais sur votre prochaine commande, sans montant minimum d’achat."
+        }
+      },
+      "prefixes": [
+        "XFX7"
       ]
     }
   ],
