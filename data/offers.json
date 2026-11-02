@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-02T17:46:50.131Z",
+    "lastUpdated": "2026-11-02T17:47:15.258Z",
     "updatedBy": "CT Rewards Studio",
-    "version": 11
+    "version": 12
   },
   "OFFER_CONFIGS": [
     {
@@ -750,6 +750,35 @@
       "customUocAttr": "dm_UOC",
       "customUocMode": "attr",
       "srcType": "custom"
+    },
+    {
+      "id": "CT-VQ6QX3",
+      "sites": [
+        "US"
+      ],
+      "campaign": "AW26 US BCMR",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy 3 Shirts or Polos for $119",
+      "offerText": "3 Shirts or Polos $119",
+      "subText": "Full-price items only",
+      "bannerEnabled": true,
+      "bannerText": "3 Shirts or Polos $119 - Exclusive Reward",
+      "terms": "This offer ends at 11:59PM (PST) on November 15th, 2026. Quote offer code in store, over the phone or apply offer code in bag at charlestyrwhitt.com. Liberty Fabric, Custom, Luxury 140s Twill, clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates. Offer limited to up to 9 shirts. Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Cale Shumway",
+      "suppDates": "",
+      "startAt": "2026-10-26T00:00:00Z",
+      "endAt": "2026-11-15T23:59:59Z",
+      "customQualifiers": [
+        {
+          "attr": "dm_UOC",
+          "operator": "contains",
+          "value": "XFX6"
+        }
+      ],
+      "customQualifierLogic": "and",
+      "customUocAttr": "gi_UOC",
+      "customUocMode": "attr",
+      "srcType": "custom"
     }
   ],
   "DIRECT_MAIL_REWARDS": {
@@ -916,25 +945,6 @@
       "endAt": "2026-08-16T23:59:59Z",
       "codeType": "static_single",
       "staticCode": "CT40",
-      "dmVersion": "dm"
-    },
-    "XFX6": {
-      "id": "CT-VQ6QX3",
-      "sites": [
-        "US"
-      ],
-      "campaign": "AW26 US BCMR",
-      "offerTitle": "Exclusive Reward",
-      "offerDescription": "Enjoy 3 Shirts or Polos for $119",
-      "offerText": "3 Shirts or Polos $119",
-      "subText": "Full-price items only",
-      "bannerEnabled": true,
-      "bannerText": "3 Shirts or Polos $119 - Exclusive Reward",
-      "terms": "This offer ends at 11:59PM (PST) on November 15th, 2026. Quote offer code in store, over the phone or apply offer code in bag at charlestyrwhitt.com. Liberty Fabric, Custom, Luxury 140s Twill, clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates. Offer limited to up to 9 shirts. Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
-      "contact": "Cale Shumway",
-      "suppDates": "",
-      "startAt": "2026-10-26T00:00:00Z",
-      "endAt": "2026-11-15T23:59:59Z",
       "dmVersion": "dm"
     }
   },
