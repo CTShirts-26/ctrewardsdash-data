@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-02T17:38:00.254Z",
+    "lastUpdated": "2026-11-02T17:44:07.562Z",
     "updatedBy": "CT Rewards Studio",
-    "version": 7
+    "version": 8
   },
   "OFFER_CONFIGS": [
     {
@@ -692,6 +692,35 @@
       "customUocAttr": "gi_UOC",
       "customUocMode": "attr",
       "srcType": "custom"
+    },
+    {
+      "id": "CT-FK8CC6",
+      "sites": [
+        "US"
+      ],
+      "campaign": "AW26 US BCMA",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy $75 Off your next order with no minimum spend. ",
+      "offerText": "$75 Off",
+      "subText": "No minimum spend",
+      "bannerEnabled": true,
+      "bannerText": "$75 Off - Exclusive Reward",
+      "terms": "This offer ends at 11:59PM (PST) on November 15th, 2026. Quote offer code in store, over the phone or apply offer code in bag at charlestyrwhitt.com. Custom, clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates. Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Cale Shumway",
+      "suppDates": "",
+      "startAt": "2026-10-26T00:00:00Z",
+      "endAt": "2026-11-15T23:59:59Z",
+      "customQualifiers": [
+        {
+          "attr": "dm_UOC",
+          "operator": "contains",
+          "value": "XFX2"
+        }
+      ],
+      "customQualifierLogic": "and",
+      "customUocAttr": "gi_UOC",
+      "customUocMode": "attr",
+      "srcType": "custom"
     }
   ],
   "DIRECT_MAIL_REWARDS": {
@@ -858,25 +887,6 @@
       "endAt": "2026-08-16T23:59:59Z",
       "codeType": "static_single",
       "staticCode": "CT40",
-      "dmVersion": "dm"
-    },
-    "XFX2": {
-      "id": "CT-FK8CC6",
-      "sites": [
-        "US"
-      ],
-      "campaign": "AW26 US BCMA",
-      "offerTitle": "Exclusive Reward",
-      "offerDescription": "Enjoy $75 Off your next order with no minimum spend. ",
-      "offerText": "$75 Off",
-      "subText": "No minimum spend",
-      "bannerEnabled": true,
-      "bannerText": "$75 Off - Exclusive Reward",
-      "terms": "This offer ends at 11:59PM (PST) on November 15th, 2026. Quote offer code in store, over the phone or apply offer code in bag at charlestyrwhitt.com. Custom, clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates. Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
-      "contact": "Cale Shumway",
-      "suppDates": "",
-      "startAt": "2026-10-26T00:00:00Z",
-      "endAt": "2026-11-15T23:59:59Z",
       "dmVersion": "dm"
     },
     "XFX3": {
