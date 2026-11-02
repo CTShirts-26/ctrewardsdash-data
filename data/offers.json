@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-02T17:45:28.753Z",
+    "lastUpdated": "2026-11-02T17:46:07.808Z",
     "updatedBy": "CT Rewards Studio",
-    "version": 9
+    "version": 10
   },
   "OFFER_CONFIGS": [
     {
@@ -718,7 +718,7 @@
         }
       ],
       "customQualifierLogic": "and",
-      "customUocAttr": "gi_UOC",
+      "customUocAttr": "dm_UOC",
       "customUocMode": "attr",
       "srcType": "custom"
     }
